@@ -1,0 +1,852 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" class="no-js" lang="en">
+<head>
+	
+	
+    <link rel="preconnect" href="https://www17.wellsfargomedia.com/">
+    <link rel="dns-prefetch" href="https://www17.wellsfargomedia.com/">
+    <link rel="preconnect" href="https://c1.wfinterface.com/">
+    <link rel="dns-prefetch" href="https://c1.wfinterface.com/">
+    <link rel="preconnect" href="https://static.wellsfargo.com/">
+    <link rel="dns-prefetch" href="https://static.wellsfargo.com/">
+
+
+	
+	
+
+	
+	<script type="text/javascript" nonce="cfb15ad4-7085-4829-9cc1-52700615e054">
+		var environment = "PRODUCTION";
+		var appd_key = "AD-AAB-ABJ-PZF";
+		var appd_js_path = "https:\/\/static.wellsfargo.com\/assets\/js\/wfui\/appdynamics";
+	</script>
+	<script src="https://static.wellsfargo.com/assets/js/wfui/appdynamics/appdEUMConfig.js" nonce="cfb15ad4-7085-4829-9cc1-52700615e054"> </script>
+	
+	<script type="text/javascript" nonce="cfb15ad4-7085-4829-9cc1-52700615e054">
+		var akamaiImageHostUrl = "https:\/\/www17.wellsfargomedia.com";
+	</script>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	
+	<title>Push Notifications FAQs | Wells Fargo</title>	
+    
+		
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">	
+	<meta name="description" content = "Answers to your questions about push notifications."/>	
+	<meta name="keywords" content = "push notifications information, push notification, push information"/>
+	<meta name="robots" content = "index, follow"/>
+	
+	        
+          
+                <link  rel="canonical" href = "https://www.wellsfargo.com/help/mobile-features/push-notification-faqs/"/>
+                   <link rel="alternate" href="https://www.wellsfargo.com/help/mobile-features/push-notification-faqs/" hreflang="en-us" />
+
+	  
+        
+					
+						<link rel="alternate" href="https://www.wellsfargo.com/es/help/mobile-features/push-notification-faqs/" hreflang="es-us"  />
+					
+					
+		    
+       
+     
+	  
+
+	
+	
+	
+		
+	
+
+	<link  rel="stylesheet" type="text/css" href="https://www.wellsfargo.com/css/template/global.css"> </link>
+	
+	<link  rel="stylesheet" type="text/css" href="https://www.wellsfargo.com/css/template/ui-lightness/jquery-ui.custom.css"> </link>
+	<link rel="preload" as="style" href="https://www.wellsfargo.com/css/template/print.css" media="print"/>
+	<link rel="stylesheet" href="https://www.wellsfargo.com/css/template/print.css" media="print"/>
+	
+    	
+           
+			<link  rel="stylesheet" type="text/css" href="/css/tools/feedback/feedback.css"> </link>
+		   
+
+
+	
+ 
+	
+	
+	
+	
+
+	
+		<link rel="icon" type="image/x-icon" href="/favicon.ico" />
+		<link rel="apple-touch-icon" sizes="120x120" href="https://www17.wellsfargomedia.com/assets/images/icons/apple-touch-icon_120x120.png"/>
+		<link rel="apple-touch-icon" sizes="180x180" href="https://www17.wellsfargomedia.com/assets/images/icons/apple-touch-icon_180x180.png"/>
+		<link rel="icon" sizes="128x128" href="https://www17.wellsfargomedia.com/assets/images/icons/icon-normal_128x128.png"/>
+		<link rel="icon" sizes="192x192" href="https://www17.wellsfargomedia.com/assets/images/icons/icon-hires_192x192.png"/>
+		<link rel="icon" type="image/png" href="https://www17.wellsfargomedia.com/assets/images/icons/favicon_16x32x48.png">
+	
+	
+
+	
+	
+		
+           
+			  
+		   
+
+	
+	 
+	
+	<script nonce="cfb15ad4-7085-4829-9cc1-52700615e054">
+		// if this line executes, then javascript is turned on and we'll
+		// therefore remove the no-js class from the HTML tag
+        document.documentElement.className = document.documentElement.className.replace(/(^|\s)no-js(\s|$)/, '$1$2');
+    </script>
+	
+ 
+	
+	<script type="text/javascript" nonce="cfb15ad4-7085-4829-9cc1-52700615e054"> var utag_data = { app_id:'WWW',authenticated:'false',mpuid:'11202509232258271856019046',unique_id:'20250923105827',page_type:'BROWSER',tealium_js_path:'https://c1.wfinterface.com/tracking/main/utag.js',device_type:'',mt_tag_path:'https://c1.wfinterface.com/rtto/',customer_type:'',zip_code:'',environment:'PRODUCTION',lang_pref:'EN'} </script> 
+	<script type="text/javascript" nonce="cfb15ad4-7085-4829-9cc1-52700615e054"> var WFUI_CONTAINER = {"app_id":"WWW","environment":"PRODUCTION","top":{"sources":[]},"bottom":{"sources":[]}}; </script> 
+	
+	 
+	 
+<script id="antiClickjack" type="text/javascript" nonce="cfb15ad4-7085-4829-9cc1-52700615e054">try{if (self != top){top.location = self.location;}}catch(err){}</script></head>
+
+
+
+<body>
+	
+	
+	
+	
+	
+		<div id="shell" class="t8" data-pid = "tcm:222-160068-64" data-ptid = "tcm:222-170471-128" data-lightbox-print = "false">
+	
+	
+	
+		
+		<a href="#skip" class="hidden">Skip to content</a>	
+			
+		
+
+
+	
+
+		
+	
+	
+	
+	
+	
+	
+
+
+	
+	
+	
+
+
+
+	
+	<header role="banner">
+		<div id="masthead" class="html5header c1 nxg">
+			<div class="wfLogoStripParent">
+				<div class="wfLogoStripChild">
+					<div id="brand">
+					
+					<a href="/"><img src="https://www17.wellsfargomedia.com/assets/images/css/template/homepage/homepage-horz-logo.svg" alt="Wells Fargo Home Page"></a>
+					</div>
+					<div id="topSearch">
+					
+					
+						<ul>
+					
+							<li role="presentation">
+								
+	
+		
+		<a href="https://connect.secure.wellsfargo.com/auth/login/present?origin=cob&amp;LOB=CONS" class="signIn"> <img alt="Secure" src="https://www17.wellsfargomedia.com/assets/images/css/template/homepage/homepage-lock.svg"> Sign On </a>
+	
+
+							</li>
+							
+								<li role="presentation">         <a href="/help/"  >Customer Service</a>       </li>
+							
+								<li role="presentation">         <a href="/locator/"  >ATMs/Locations</a>       </li>
+							
+								<li role="presentation"> <a href="/spanish/" id="langPrefToggle" class="spTogglePersonal" xml:lang="es" name="langPrefToggle" lang="es"  >Español</a> </li>
+							
+						</ul>
+						
+							
+						
+							<div id="nxgSearch">
+							<button id="nxgSearchButton">
+								<span class="nxgSearchText">Search</span>&nbsp;
+								<span class="nxgVisuallyHidden" id="nxgSearchDescription">Opens a dialog.</span>
+								<span class="nxgSearchIcon"></span>
+							</button>
+							</div>
+							
+						
+						
+					</div>
+				</div>
+			</div>
+		
+			<div id="mainNav">
+				<nav aria-label="Account type">
+					<div class="html5nav" id="tabNav">
+						<ul>
+						
+							
+							
+	                                 <li class="active"> <a id="tabNavPersonal" class="tabNavLink" href="/" name="tabNavPersonal"> <span class="hidden">selected</span> Personal </a> </li>        
+						
+						
+						
+							
+							
+	                        <li><a href="/investing-wealth/" class="tabNavLink" id="tabInvestingWealth" name="tabInvestingWealth">Investing &amp; Wealth Management</a></li> 
+						
+						
+						
+							
+							
+	                        <li><a href="/biz/" class="tabNavLink" id="tabNavSmallBusiness" name="tabNavSmallBusiness">Small Business</a></li> 
+						
+						
+						
+							
+							
+	                        <li><a href="/com/" class="tabNavLink" id="tabNavCommercial" name="tabNavCommercial">Commercial Banking</a></li> 
+						
+						
+						
+							
+							
+	                        <li><a href="/cib/" class="tabNavLink" id="tabNavCorporateBanking" name="tabNavCorporateBanking">Corporate &amp; Investment Banking</a></li> 
+						
+						
+						
+                      </ul> 
+
+					</div>
+
+					
+				</nav>
+			</div>
+		
+		</div>
+	</header>
+	
+
+
+
+	
+
+		
+		<br> <div class="c29content" data-content-id="c29content00"> <p>Navegó a una página que no está disponible en español en este momento. Seleccione el enlace si desea ver otro contenido en español.</p> <a href="/spanish/">Página principal</a></div> <div id="customc28" style="display:none;"> <div id="customc28backdrop"> </div> <div class="c28mainContainer c28CustomContainer" role="dialog" aria-labelledby="c28topFocusCustom" xml:lang="es" lang="es"><span id="c28topFocusCustom" class="hidden">Comienzo de ventana emergente</span> <div class="c28topContainer"><a class="c28close" id="c28close" href="javascript:void(0)" style="display: inline;" name="c28close" xml:lang="en" lang="en"><img alt="Close" role="button" src="https://www17.wellsfargomedia.com/assets/images/global/btn-close-x.png"></a></div> <h2>Esta página solo está disponible en inglés</h2> <p>Selecione Cancele para permanecer en esta página o Continúe para ver nuestra página principal en español.</p> <div class="balloonButtons balloonButtonsCustom"><a href="javascript:void(0)" id="balloon-cancel" class="customc28cancel balloon-cancel" name="balloon-cancel">Cancele</a> <a href="/es/" class="c7 utilitybtn" id="popupContinue" name="popupContinue">Continúe</a></div> <span id="c28bottomFocusCustom" class="hidden">Fin de ventana emergente</span></div> </div>
+		
+
+		
+		
+		
+		
+	<div class="c42">	
+		
+		
+	<nav>
+		<div class="html5nav">
+			<ul class="c67">
+				<li ><a href="/">Personal</a></li>
+				<li ><a href="/help">Customer Service</a></li>
+				<li ><a href="/help/mobile-features">Mobile Features Help</a></li>
+				<li class = "last" >Push Notifications Questions</li>
+			</ul>
+		</div>
+	</nav>
+ 
+		<div id="title">
+			<h1 class="c11" id="skip" tabindex="-1">
+				Push Notifications Questions
+			</h1>
+			
+			
+			<div class="headerLocation">
+				
+
+
+	
+			</div>
+			
+		</div>
+		
+		
+		<div class="sideUtility top">
+			<ul>
+				<li>
+					<a href="#" class="printLink">
+						
+						
+						Print
+					</a>
+				</li>
+			</ul>	
+			<div class="c52 hide" aria-hidden = "true" aria-label = "popup"></div>
+		</div>
+		
+	
+		
+				
+	</div>
+
+			
+		
+		<div id="contentTop">
+		
+	
+		
+	
+ 
+		</div>		
+		
+		
+		
+
+
+	
+		
+		
+		
+		
+		
+		
+	
+		
+			
+				
+					
+						
+							
+								<div id="mainColumns" class = "cols2">
+									<div class="mainContentCol">
+										<div id="contentBody">
+											
+	
+		
+			
+			
+				
+				
+				
+				
+					
+
+
+	<div class="c58" id = "whatarepushnotifications" data-cid = "tcm:84-20759-16" data-ctid = "tcm:91-6213-32">
+		<h3 class="c58question">What are Push Notifications?</h3>	
+		<div class="c58answer"><p  >Push Notifications are for Wells Fargo Online<sup>®</sup> customers who have an Apple<sup>®</sup> or Android<sup>TM</sup> device (phone or tablet) and the Wells Fargo Mobile<em><sup>®</sup></em> app installed. Signing up for push notifications, allows you to receive “push” versions of some online banking alerts or one time passcodes for authentication purposes.</p></div>
+	</div>
+
+				
+				
+			
+			
+		
+			
+			
+				
+				
+				
+				
+					
+
+
+	<div class="c58" id = "howdoisignupandreceivepushnotifications" data-cid = "tcm:84-20760-16" data-ctid = "tcm:91-6213-32">
+		<h3 class="c58question">How do I sign up and receive Push Notifications?</h3>	
+		<div class="c58answer"><p>Download and update the latest version of the <a href="/mobile-online-banking/apps/?pushfaq">Wells Fargo Mobile app</a><sup class="c20ref" data-footnote="tcm:84-123521-16" type="footnote"></sup>. iOS users need to launch the Wells Fargo Mobile app and select <strong>Allow</strong>. Android users automatically have push notifications enabled.</p> <p>If you have Wells Fargo Mobile app installed, from iOS or Android device, tap <strong>Menu</strong> in the bottom bar, tap your name or Welcome at the top of the page, and select <strong>Manage Banking Alerts</strong> to set up notifications for Wells Fargo app. In addition you may have to select <strong>Push Notifications</strong>, and slide to On.</p> <p>(iOS notifications can appear as pop-up messages or banners, displayed in the notification center and lock screen. Android notifications appear as a banner and in the drop-down notification drawer.)</p> <p>Wells Fargo does not recommend enabling push notifications if you regularly share your device with other people.</p></div>
+	</div>
+
+				
+				
+			
+			
+		
+			
+			
+				
+				
+				
+				
+					
+
+
+	<div class="c58" id = "whatarethebenefitsofpushnotifications" data-cid = "tcm:84-54066-16" data-ctid = "tcm:91-6213-32">
+		<h3 class="c58question">What are the benefits of push notifications?</h3>	
+		<div class="c58answer"><p  >You can help stay on top of your bank accounts with push notifications. If you have push notifications enabled on your device, and you have turned on push notifications in the Wells Fargo Mobile app, you can receive alerts related to your account balances, such as Balance Threshold Alerts. You don’t need to be signed in to the app to receive push notifications. <br /></p> <p  >Push notifications also allow you to receive onetime passcodes for authentication purposes.</p></div>
+	</div>
+
+				
+				
+			
+			
+		
+			
+			
+				
+				
+				
+				
+					
+
+
+	<div class="c58" id = "whatkindsofnotificationsaresentviapush" data-cid = "tcm:84-20758-16" data-ctid = "tcm:91-6213-32">
+		<h3 class="c58question">What kinds of notifications are sent via Push?</h3>	
+		<div class="c58answer"><ul> <li>Account-specific alerts about your balances, recent transaction activity, and account notices</li> <li>Servicing notifications to confirm online transactions such as payments or transfers to other accounts </li> <li>Security alerts about changes to your online access including changes to your password or multiple unsuccessful attempts to login</li> <li>One time passcodes for use in particular transactions in Wells Fargo Online or with a Wells Fargo banker. <a type="componentlink" data-component-uri="tcm:222-14802" data-page-uri="tcm:222-160068-64" href="/privacy-security/advanced-access/">Learn more about Advanced Access</a>.</li> </ul></div>
+	</div>
+
+				
+				
+			
+			
+		
+			
+			
+				
+				
+				
+				
+					
+
+
+	<div class="c58" id = "whyaminotgettingpushnotifications" data-cid = "tcm:84-177792-16" data-ctid = "tcm:91-6213-32">
+		<h3 class="c58question">Why am I not getting Push Notifications?</h3>	
+		<div class="c58answer"><p  >There are 2 reasons why you may not get Push Notifications:</p> <ol  > <li>For your security, Push Notifications are only sent to devices on which you are frequently using the Wells Fargo Mobile app. If you have not logged in recently to the Wells Fargo Mobile app, please do so to reactivate Push Notifications.</li> <li>Push Notifications may have been disabled inadvertently. For details on how Push Notifications could have been disabled, please look into FAQ question "How to turn off Push Notifications."</li> </ol></div>
+	</div>
+
+				
+				
+			
+			
+		
+			
+			
+				
+				
+				
+				
+					
+
+
+	<div class="c58" id = "howtoturnoffpushnotifications" data-cid = "tcm:84-20757-16" data-ctid = "tcm:91-6213-32">
+		<h3 class="c58question">How to turn off Push Notifications?</h3>	
+		<div class="c58answer"><p  >From iOS or Android<sup>TM</sup> device, go to <strong>Notifications</strong> within <strong>Settings</strong>, and disable notification for Wells Fargo app.</p></div>
+	</div>
+
+				
+				
+			
+			
+		
+	
+
+										</div>
+										
+										<div id="contentBottom">
+											
+	
+		
+	
+
+											<div class="c20" role="complementary">	 
+												
+
+
+	
+
+		
+	<div class="c20body" data-numbered = "true" data-cid = "tcm:84-123521-16" data-ctid = "tcm:91-1924-32">
+		<p  >Availability may be affected by your mobile carrier's coverage area. Your mobile carrier's message and data rates may apply.</p>
+	</div>
+
+	
+
+		
+	<div class="c20body" data-numbered = "false" data-cid = "tcm:84-148263-16" data-ctid = "tcm:91-1924-32">
+		<p  >Android, Google Play, Chrome, Pixel and other marks are trademarks of Google LLC.</p>
+	</div>
+
+	
+
+		
+	<div class="c20body" data-numbered = "false" data-cid = "tcm:84-38072-16" data-ctid = "tcm:91-1924-32">
+		<p  >Apple, the Apple logo, Apple Pay, Apple Watch, Face ID, iCloud Keychain, iPad, iPad Pro, iPhone, iTunes, Mac, Safari, and Touch ID are trademarks of Apple Inc., registered in the U.S. and other countries. Apple Wallet is a trademark of Apple Inc. App Store is a service mark of Apple Inc.</p>
+	</div>
+
+	
+
+		
+	<div class="c20body" data-numbered = "false" data-cid = "tcm:84-6793-16" data-ctid = "tcm:91-1924-32">
+		<p  >Deposit products offered by Wells Fargo Bank, N.A. Member FDIC.</p>
+	</div>
+
+	
+
+		
+	<div class="c20body" data-numbered = "false" data-cid = "tcm:84-228794-16" data-ctid = "tcm:91-1924-32">
+		<p  >QSR-06032026-7403647.1.1</p>
+	</div>
+
+	
+
+		
+	<div class="c20body" data-numbered = "false" data-cid = "tcm:84-304795-16" data-ctid = "tcm:91-1924-32">
+		<p  >LRC-1124</p>
+	</div>
+
+	 
+											</div>
+										</div>			
+									</div>		
+									<aside>
+										<div class="html5aside">
+											<div class="secondaryCol">
+												
+	
+		
+			
+			
+				
+				
+					
+					 
+					
+					
+						
+							
+								
+								
+									<div id="serviceModule" class="c8">
+								
+								
+							
+						
+						
+						
+
+	    	<div class="c8subsection" data-cid="tcm:84-160275-16" data-ctid="tcm:91-1889-32">
+	    	
+	        	<h2>Additional resources </h2>
+	        
+	            <ul class="c14"> <li> <a type="componentlink" data-component-uri="tcm:222-14802" data-page-uri="tcm:222-160068-64" href="/privacy-security/advanced-access/">Learn more about Advanced Access</a> </li> <li> <a href="/help/mobile-features/">View all Wells Fargo Mobile<sup>®</sup> questions</a> </li> </ul>
+	        </div>
+
+
+						
+						
+									</div>
+						
+					
+					
+					
+					
+				
+				
+				
+				
+			
+			
+		
+			
+			
+				
+				
+				
+				
+					
+	<div class="c68" data-cid = "tcm:84-16809-16" data-ctid = "tcm:91-6222-32">
+		<h2>Still have questions?</h2>
+		
+			
+			
+				
+				
+				
+				
+				
+				
+				
+				<div class="c16" data-default-open = "false" id="">
+					<h3 class="c16header callUs">Call Us</h3>
+					
+					<div class="c16content">
+						<div class="c68item">
+							<p><strong>Customer Service</strong></p> <p><span class="c12">1-800-869-3557</span></p> <p>24 hours a day, 7 days a week</p> <p><a class="" type="componentlink" data-component-uri="tcm:222-171288" data-page-uri="tcm:222-160068-64" href="/help/contact-us/">More contact options</a></p>
+	                  	</div>                            
+	              	</div>
+	       		</div>
+	       		
+	       		
+				
+	       		
+	       		
+				
+	       		
+	       		
+	       		
+			
+	</div>
+	
+	
+	
+		
+	
+
+				
+				
+			
+			
+		
+			
+			
+				
+				
+				
+				
+					
+	
+			<div id="feedbackSurvey" data-cid="tcm:84-6876-16"
+		data-ctid="tcm:91-6227-32" xmlns="http://www.w3.org/1999/xhtml">
+					<div id="feedbackSurveyForm">
+						<div class="feedbackSurveyIntro">
+                          <p>
+<a href='#' class='c13' data-ctid="tcm:91-6227-32"  data-cid="tcm:84-6876-16" target='_blank' rel='noopener noreferrer' id='NID1_15_2_1_1_4_1_1_1'>Give Us Feedback</a></p>
+				            
+						</div>
+					</div>
+            </div>
+	
+
+				
+				
+			
+			
+		
+	
+
+											</div>
+										</div>
+									</aside>
+								</div>
+							
+						
+					
+				
+			
+		
+	
+
+
+		
+		
+
+
+			
+		
+		
+	
+
+				
+		
+		
+	<footer role="contentinfo">
+		<div class="html5footer c9" id="pageFooter">		
+			
+
+
+	
+
+		
+			<div class="c9content">
+			
+			
+	    		<nav role="navigation">
+	            	<div class="html5nav">
+						<ul class="navList">						
+	                    	<li>
+								
+	
+		
+			
+				 <a data-cid="tcm:84-8253-16" data-ctid="tcm:91-1866-32" href="/privacy-security/"  >Privacy, Cookies, Security &amp; Legal</a> 
+			
+		
+		
+	
+
+							</li>						
+	                    	<li>
+								
+	
+		
+		                                        <a href="/privacy-security/opt-out-notice/"  >Do Not Sell or Share My Personal Information</a>                                 
+	
+
+							</li>						
+	                    	<li>
+								
+	
+		
+			
+				 <a data-cid="tcm:84-8253-16" data-ctid="tcm:91-1866-32" href="/privacy-security/notice-of-data-collection/"  >Notice of Data Collection</a> 
+			
+		
+		
+	
+
+							</li>						
+	                    	<li>
+								
+	
+		
+			
+				 <a data-cid="tcm:84-8253-16" data-ctid="tcm:91-1866-32" href="/privacy-security/terms/"  >General Terms of Use</a> 
+			
+		
+		
+	
+
+							</li>						
+	                    	<li>
+								
+	
+		
+			
+				 <a data-cid="tcm:84-8253-16" data-ctid="tcm:91-1866-32" href="/privacy-security/fraud/report/"  >Report Fraud</a> 
+			
+		
+		
+	
+
+							</li>						
+	                    	<li>
+								
+	
+		
+			
+				 <a data-cid="tcm:84-8253-16" data-ctid="tcm:91-1866-32" href="/sitemap"  >Sitemap</a> 
+			
+		
+		
+	
+
+							</li>						
+	                    	<li>
+								
+	
+		
+			
+				 <a data-cid="tcm:84-8253-16" data-ctid="tcm:91-1866-32" href="/about/"  >About Wells Fargo</a> 
+			
+		
+		
+	
+
+							</li>						
+	                    	<li>
+								
+	
+		
+			
+				 <a data-cid="tcm:84-8253-16" data-ctid="tcm:91-1866-32" href="/about/careers/"  >Careers</a> 
+			
+		
+		
+	
+
+							</li>						
+	                    	<li>
+								
+	
+		
+			
+				 <a data-cid="tcm:84-8253-16" data-ctid="tcm:91-1866-32" href="/about/inclusion/"  >Inclusion and Accessibility</a> 
+			
+		
+		
+	
+
+							</li>						
+	                    	<li>
+								
+	
+		
+		 <a href="/"  >Home</a> 
+	
+
+							</li>
+	                 	</ul>
+					</div>
+				</nav>
+				
+	    		<p  >© 1999 - 2025 Wells Fargo. NMLSR ID 399801</p>
+			</div>            	
+
+	
+		
+			 
+		</div>
+	</footer>
+	
+	
+	
+
+		
+		
+	
+
+	</div>
+	
+	
+	<img src="/assets/images/global/s.gif?log=1&cb=1758693507553&event=PageLoad&pid=tcm:222-160068-64&ptid=tcm:222-170471-128&pageUrl=https%3A%2F%2Fwww.wellsfargo.com%2Fhelp%2Fmobile-features%2Fpush-notification-faqs%2F&clist=84-160275-16~91-1889-32|84-16809-16~91-6222-32|84-6876-16~91-6227-32|84-123521-16~91-1924-32|84-148263-16~91-1924-32|84-38072-16~91-1924-32|84-6793-16~91-1924-32|84-228794-16~91-1924-32|84-304795-16~91-1924-32|84-8259-16~91-1865-32|84-36594-16~91-2830-32|84-20759-16~91-6213-32|84-20760-16~91-6213-32|84-54066-16~91-6213-32|84-20758-16~91-6213-32|84-177792-16~91-6213-32|84-20757-16~91-6213-32|84-8253-16~91-1866-32" alt=""/>
+	
+	
+	
+
+<script type="text/javascript" nonce="cfb15ad4-7085-4829-9cc1-52700615e054">
+var tasInfo = {
+"pageID" : "/help/mobile-features/push-notification-faqs/",
+"Url" : "/tas",
+"App_ID" : "WWW",
+"deviceType" : ""
+};
+</script>   
+
+
+	
+	
+	
+	<script type="text/javascript" src="/js/vendor/jquery.min.js" nonce="cfb15ad4-7085-4829-9cc1-52700615e054"> </script> 
+	<script type="text/javascript" src="/js/frameworks/jq/jquery-ui.js" nonce="cfb15ad4-7085-4829-9cc1-52700615e054"> </script> 
+	<script type="text/javascript" src="/js/global/global.js" nonce="cfb15ad4-7085-4829-9cc1-52700615e054"> </script> 
+	<script type="text/javascript" src="/js/frameworks/slick01.js" nonce="cfb15ad4-7085-4829-9cc1-52700615e054"></script>
+
+	
+	
+	
+
+
+	
+		 
+           
+			 <script type="text/javascript" src="/js/tools/feedback/feedback.js"  nonce="cfb15ad4-7085-4829-9cc1-52700615e054"> </script> 
+		    
+ 
+	
+	
+	<script src="https://static.wellsfargo.com/assets/js/wfui/container/wfui-container-bottom.js" nonce="cfb15ad4-7085-4829-9cc1-52700615e054"></script>
+
+<script type="text/javascript"  src="/2WTOQAvyB_oz/ta6A_6/-r-Piw/JimabDJXSLJ4NDViD9/EzQmBQE/D0ZC/WloOAnY"></script></body>
+</html>

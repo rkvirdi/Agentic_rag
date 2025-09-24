@@ -1,0 +1,580 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" class="no-js" lang="en">
+<head>
+	
+	
+    <link rel="preconnect" href="https://www17.wellsfargomedia.com/">
+    <link rel="dns-prefetch" href="https://www17.wellsfargomedia.com/">
+    <link rel="preconnect" href="https://c1.wfinterface.com/">
+    <link rel="dns-prefetch" href="https://c1.wfinterface.com/">
+    <link rel="preconnect" href="https://static.wellsfargo.com/">
+    <link rel="dns-prefetch" href="https://static.wellsfargo.com/">
+
+
+	
+	
+
+	
+	<script type="text/javascript" nonce="e81a769a-5c7a-4e71-a726-5147019474e8">
+		var environment = "PRODUCTION";
+		var appd_key = "AD-AAB-ABJ-PZF";
+		var appd_js_path = "https:\/\/static.wellsfargo.com\/assets\/js\/wfui\/appdynamics";
+	</script>
+	<script src="https://static.wellsfargo.com/assets/js/wfui/appdynamics/appdEUMConfig.js" nonce="e81a769a-5c7a-4e71-a726-5147019474e8"> </script>
+	
+	<script type="text/javascript" nonce="e81a769a-5c7a-4e71-a726-5147019474e8">
+		var akamaiImageHostUrl = "https:\/\/www17.wellsfargomedia.com";
+	</script>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	
+	<title>Rates</title>	
+    
+		
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">	
+	<meta name="description" content = "Look up current rates on a variety of products offered through Wells Fargo."/>	
+	
+	<meta name="robots" content = "index, follow"/>
+	
+	        
+          
+                <link  rel="canonical" href = "https://www.wellsfargo.com/help/rates/"/>
+                   <link rel="alternate" href="https://www.wellsfargo.com/help/rates/" hreflang="en-us" />
+
+	  
+            
+       
+     
+	  
+
+	
+	
+	
+		
+	
+
+	<link  rel="stylesheet" type="text/css" href="https://www.wellsfargo.com/css/template/global.css"> </link>
+	
+	<link  rel="stylesheet" type="text/css" href="https://www.wellsfargo.com/css/template/ui-lightness/jquery-ui.custom.css"> </link>
+	<link rel="preload" as="style" href="https://www.wellsfargo.com/css/template/print.css" media="print"/>
+	<link rel="stylesheet" href="https://www.wellsfargo.com/css/template/print.css" media="print"/>
+	
+    	
+           
+
+
+	
+ 
+	
+	
+	
+	
+
+	
+		<link rel="icon" type="image/x-icon" href="/favicon.ico" />
+		<link rel="apple-touch-icon" sizes="120x120" href="https://www17.wellsfargomedia.com/assets/images/icons/apple-touch-icon_120x120.png"/>
+		<link rel="apple-touch-icon" sizes="180x180" href="https://www17.wellsfargomedia.com/assets/images/icons/apple-touch-icon_180x180.png"/>
+		<link rel="icon" sizes="128x128" href="https://www17.wellsfargomedia.com/assets/images/icons/icon-normal_128x128.png"/>
+		<link rel="icon" sizes="192x192" href="https://www17.wellsfargomedia.com/assets/images/icons/icon-hires_192x192.png"/>
+		<link rel="icon" type="image/png" href="https://www17.wellsfargomedia.com/assets/images/icons/favicon_16x32x48.png">
+	
+	
+
+	
+	
+		
+           
+
+	
+	 
+	
+	<script nonce="e81a769a-5c7a-4e71-a726-5147019474e8">
+		// if this line executes, then javascript is turned on and we'll
+		// therefore remove the no-js class from the HTML tag
+        document.documentElement.className = document.documentElement.className.replace(/(^|\s)no-js(\s|$)/, '$1$2');
+    </script>
+	
+ 
+	
+	<script type="text/javascript" nonce="e81a769a-5c7a-4e71-a726-5147019474e8"> var utag_data = { app_id:'WWW',authenticated:'false',mpuid:'11202509232257201028206034',unique_id:'20250923105720',page_type:'BROWSER',tealium_js_path:'https://c1.wfinterface.com/tracking/main/utag.js',device_type:'',mt_tag_path:'https://c1.wfinterface.com/rtto/',customer_type:'',zip_code:'',environment:'PRODUCTION',lang_pref:'EN'} </script> 
+	<script type="text/javascript" nonce="e81a769a-5c7a-4e71-a726-5147019474e8"> var WFUI_CONTAINER = {"app_id":"WWW","environment":"PRODUCTION","top":{"sources":[]},"bottom":{"sources":[]}}; </script> 
+	
+	 
+	 
+<script id="antiClickjack" type="text/javascript" nonce="e81a769a-5c7a-4e71-a726-5147019474e8">try{if (self != top){top.location = self.location;}}catch(err){}</script></head>
+
+
+
+<body>
+	
+	
+	
+	
+	
+		<div id="shell" class="t8" data-pid = "tcm:222-138477-64" data-ptid = "tcm:222-170471-128" data-lightbox-print = "false">
+	
+	
+	
+		
+		<a href="#skip" class="hidden">Skip to content</a>	
+			
+		
+
+
+	
+
+		
+	
+	
+	
+	
+	
+	
+
+
+	
+	
+	
+
+
+
+	
+	<header role="banner">
+		<div id="masthead" class="html5header c1 nxg">
+			<div class="wfLogoStripParent">
+				<div class="wfLogoStripChild">
+					<div id="brand">
+					
+					<a href="/"><img src="https://www17.wellsfargomedia.com/assets/images/css/template/homepage/homepage-horz-logo.svg" alt="Wells Fargo Home Page"></a>
+					</div>
+					<div id="topSearch">
+					
+					
+						<ul>
+					
+							<li role="presentation">
+								
+	
+		
+		<a href="https://connect.secure.wellsfargo.com/auth/login/present?origin=cob&amp;LOB=CONS" class="signIn"> <img alt="Secure" src="https://www17.wellsfargomedia.com/assets/images/css/template/homepage/homepage-lock.svg"> Sign On </a>
+	
+
+							</li>
+							
+								<li role="presentation">         <a href="/help/"  >Customer Service</a>       </li>
+							
+								<li role="presentation">         <a href="/locator/"  >ATMs/Locations</a>       </li>
+							
+								<li role="presentation"> <a href="/spanish/" id="langPrefToggle" class="spTogglePersonal" xml:lang="es" name="langPrefToggle" lang="es"  >Español</a> </li>
+							
+						</ul>
+						
+							
+						
+							<div id="nxgSearch">
+							<button id="nxgSearchButton">
+								<span class="nxgSearchText">Search</span>&nbsp;
+								<span class="nxgVisuallyHidden" id="nxgSearchDescription">Opens a dialog.</span>
+								<span class="nxgSearchIcon"></span>
+							</button>
+							</div>
+							
+						
+						
+					</div>
+				</div>
+			</div>
+		
+			<div id="mainNav">
+				<nav aria-label="Account type">
+					<div class="html5nav" id="tabNav">
+						<ul>
+						
+							
+							
+	                                 <li class="active"> <a id="tabNavPersonal" class="tabNavLink" href="/" name="tabNavPersonal"> <span class="hidden">selected</span> Personal </a> </li>        
+						
+						
+						
+							
+							
+	                        <li><a href="/investing-wealth/" class="tabNavLink" id="tabInvestingWealth" name="tabInvestingWealth">Investing &amp; Wealth Management</a></li> 
+						
+						
+						
+							
+							
+	                        <li><a href="/biz/" class="tabNavLink" id="tabNavSmallBusiness" name="tabNavSmallBusiness">Small Business</a></li> 
+						
+						
+						
+							
+							
+	                        <li><a href="/com/" class="tabNavLink" id="tabNavCommercial" name="tabNavCommercial">Commercial Banking</a></li> 
+						
+						
+						
+							
+							
+	                        <li><a href="/cib/" class="tabNavLink" id="tabNavCorporateBanking" name="tabNavCorporateBanking">Corporate &amp; Investment Banking</a></li> 
+						
+						
+						
+                      </ul> 
+
+					</div>
+
+					
+				</nav>
+			</div>
+		
+		</div>
+	</header>
+	
+
+
+
+	
+
+		
+		<br> <div class="c29content" data-content-id="c29content00"> <p>Navegó a una página que no está disponible en español en este momento. Seleccione el enlace si desea ver otro contenido en español.</p> <a href="/spanish/">Página principal</a></div> <div id="customc28" style="display:none;"> <div id="customc28backdrop"> </div> <div class="c28mainContainer c28CustomContainer" role="dialog" aria-labelledby="c28topFocusCustom" xml:lang="es" lang="es"><span id="c28topFocusCustom" class="hidden">Comienzo de ventana emergente</span> <div class="c28topContainer"><a class="c28close" id="c28close" href="javascript:void(0)" style="display: inline;" name="c28close" xml:lang="en" lang="en"><img alt="Close" role="button" src="https://www17.wellsfargomedia.com/assets/images/global/btn-close-x.png"></a></div> <h2>Esta página solo está disponible en inglés</h2> <p>Selecione Cancele para permanecer en esta página o Continúe para ver nuestra página principal en español.</p> <div class="balloonButtons balloonButtonsCustom"><a href="javascript:void(0)" id="balloon-cancel" class="customc28cancel balloon-cancel" name="balloon-cancel">Cancele</a> <a href="/es/" class="c7 utilitybtn" id="popupContinue" name="popupContinue">Continúe</a></div> <span id="c28bottomFocusCustom" class="hidden">Fin de ventana emergente</span></div> </div>
+		
+
+		
+		
+		
+		
+	<div class="c42">	
+		
+		
+	<nav>
+		<div class="html5nav">
+			<ul class="c67">
+				<li ><a href="/">Personal</a></li>
+				<li ><a href="/help">Customer Service</a></li>
+				<li class = "last" >Rates</li>
+			</ul>
+		</div>
+	</nav>
+ 
+		<div id="title">
+			<h1 class="c11" id="skip" tabindex="-1">
+				Rates
+			</h1>
+			
+			
+			<div class="headerLocation">
+				
+
+
+	
+			</div>
+			
+		</div>
+		
+		
+		<div class="sideUtility top">
+			<ul>
+				<li>
+					<a href="#" class="printLink">
+						
+						
+						Print
+					</a>
+				</li>
+			</ul>	
+			<div class="c52 hide" aria-hidden = "true" aria-label = "popup"></div>
+		</div>
+		
+	
+		
+				
+	</div>
+
+			
+		
+		<div id="contentTop">
+		
+	
+		
+	
+ 
+		</div>		
+		
+		
+		
+
+
+	
+		
+		
+		
+		
+		
+		
+	
+		
+			
+				
+					
+						
+							
+								<div id="mainColumns">
+									<div class="mainContentCol">
+										<div id="contentBody">
+											
+	
+		
+			
+			
+				
+				
+				
+				
+					 <p>Look up current rates on a variety of products offered through Wells Fargo. Check back periodically as we regularly add new rates pages.</p> <ul> <li> <a href="https://creditcards.wellsfargo.com/" data-platform="creditCardsWF">Credit card rates</a> </li> <li> <a href="/mortgage/rates/">Mortgage and refinance rates</a> </li> <li> Personal loan rates </li> <li> <a type="componentlink" data-component-uri="tcm:222-68094" data-page-uri="tcm:222-138477-64" href="/investing/retirement/ira/select/destination/rates/">Retirement account rates</a> </li> <li> <a type="componentlink" data-component-uri="tcm:222-8265" data-page-uri="tcm:222-138477-64" href="/savings-cds/rates/">Savings accounts and time accounts (CD)</a> </li> </ul> 
+
+				
+				
+			
+			
+		
+	
+
+										</div>
+										
+										<div id="contentBottom">
+											
+	
+		
+	
+
+											<div class="c20" role="complementary">	 
+												
+
+
+	
+
+		
+	<div class="c20body" data-numbered = "false" data-cid = "tcm:84-235696-16" data-ctid = "tcm:91-1924-32">
+		<p  >DT1-01182027-18-8181429-1.1</p>
+	</div>
+
+	 
+											</div>
+										</div>			
+									</div>		
+									<aside>
+										<div class="html5aside">
+											
+										</div>
+									</aside>
+								</div>
+							
+						
+					
+				
+			
+		
+	
+
+
+		
+		
+
+
+			
+		
+		
+	
+
+				
+		
+		
+	<footer role="contentinfo">
+		<div class="html5footer c9" id="pageFooter">		
+			
+
+
+	
+
+		
+			<div class="c9content">
+			
+			
+	    		<nav role="navigation">
+	            	<div class="html5nav">
+						<ul class="navList">						
+	                    	<li>
+								
+	
+		
+			
+				 <a data-cid="tcm:84-8253-16" data-ctid="tcm:91-1866-32" href="/privacy-security/"  >Privacy, Cookies, Security &amp; Legal</a> 
+			
+		
+		
+	
+
+							</li>						
+	                    	<li>
+								
+	
+		
+		                                        <a href="/privacy-security/opt-out-notice/"  >Do Not Sell or Share My Personal Information</a>                                 
+	
+
+							</li>						
+	                    	<li>
+								
+	
+		
+			
+				 <a data-cid="tcm:84-8253-16" data-ctid="tcm:91-1866-32" href="/privacy-security/notice-of-data-collection/"  >Notice of Data Collection</a> 
+			
+		
+		
+	
+
+							</li>						
+	                    	<li>
+								
+	
+		
+			
+				 <a data-cid="tcm:84-8253-16" data-ctid="tcm:91-1866-32" href="/privacy-security/terms/"  >General Terms of Use</a> 
+			
+		
+		
+	
+
+							</li>						
+	                    	<li>
+								
+	
+		
+			
+				 <a data-cid="tcm:84-8253-16" data-ctid="tcm:91-1866-32" href="/privacy-security/fraud/report/"  >Report Fraud</a> 
+			
+		
+		
+	
+
+							</li>						
+	                    	<li>
+								
+	
+		
+			
+				 <a data-cid="tcm:84-8253-16" data-ctid="tcm:91-1866-32" href="/sitemap"  >Sitemap</a> 
+			
+		
+		
+	
+
+							</li>						
+	                    	<li>
+								
+	
+		
+			
+				 <a data-cid="tcm:84-8253-16" data-ctid="tcm:91-1866-32" href="/about/"  >About Wells Fargo</a> 
+			
+		
+		
+	
+
+							</li>						
+	                    	<li>
+								
+	
+		
+			
+				 <a data-cid="tcm:84-8253-16" data-ctid="tcm:91-1866-32" href="/about/careers/"  >Careers</a> 
+			
+		
+		
+	
+
+							</li>						
+	                    	<li>
+								
+	
+		
+			
+				 <a data-cid="tcm:84-8253-16" data-ctid="tcm:91-1866-32" href="/about/inclusion/"  >Inclusion and Accessibility</a> 
+			
+		
+		
+	
+
+							</li>						
+	                    	<li>
+								
+	
+		
+		 <a href="/"  >Home</a> 
+	
+
+							</li>
+	                 	</ul>
+					</div>
+				</nav>
+				
+	    		<p  >© 1999 - 2025 Wells Fargo. NMLSR ID 399801</p>
+			</div>            	
+
+	
+		
+			 
+		</div>
+	</footer>
+	
+	
+	
+
+		
+		
+	
+
+	</div>
+	
+	
+	<img src="/assets/images/global/s.gif?log=1&cb=1758693440803&event=PageLoad&pid=tcm:222-138477-64&ptid=tcm:222-170471-128&pageUrl=https%3A%2F%2Fwww.wellsfargo.com%2Fhelp%2Frates%2F&clist=84-235696-16~91-1924-32|84-8259-16~91-1865-32|84-36594-16~91-2830-32|182-138479-16~223-3757-32|84-8253-16~91-1866-32" alt=""/>
+	
+	
+	
+
+<script type="text/javascript" nonce="e81a769a-5c7a-4e71-a726-5147019474e8">
+var tasInfo = {
+"pageID" : "/help/rates/",
+"Url" : "/tas",
+"App_ID" : "WWW",
+"deviceType" : ""
+};
+</script>   
+
+
+	
+	
+	
+	<script type="text/javascript" src="/js/vendor/jquery.min.js" nonce="e81a769a-5c7a-4e71-a726-5147019474e8"> </script> 
+	<script type="text/javascript" src="/js/frameworks/jq/jquery-ui.js" nonce="e81a769a-5c7a-4e71-a726-5147019474e8"> </script> 
+	<script type="text/javascript" src="/js/global/global.js" nonce="e81a769a-5c7a-4e71-a726-5147019474e8"> </script> 
+	<script type="text/javascript" src="/js/frameworks/slick01.js" nonce="e81a769a-5c7a-4e71-a726-5147019474e8"></script>
+
+	
+	
+	
+
+
+	
+		 
+            
+ 
+	
+	
+	<script src="https://static.wellsfargo.com/assets/js/wfui/container/wfui-container-bottom.js" nonce="e81a769a-5c7a-4e71-a726-5147019474e8"></script>
+
+<script type="text/javascript"  src="/2WTOQAvyB_oz/ta6A_6/-r-Piw/JimabDJXSLJ4NDViD9/EzQmBQE/D0ZC/WloOAnY"></script></body>
+</html>
