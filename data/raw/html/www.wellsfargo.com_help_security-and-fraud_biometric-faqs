@@ -15,14 +15,14 @@
 	
 
 	
-	<script type="text/javascript" nonce="ea45acc2-fc2e-4597-acac-c0fa36368d08">
+	<script type="text/javascript" nonce="45972ad7-7796-4d87-9aa6-548f7ca2b75f">
 		var environment = "PRODUCTION";
 		var appd_key = "AD-AAB-ABJ-PZF";
 		var appd_js_path = "https:\/\/static.wellsfargo.com\/assets\/js\/wfui\/appdynamics";
 	</script>
-	<script src="https://static.wellsfargo.com/assets/js/wfui/appdynamics/appdEUMConfig.js" nonce="ea45acc2-fc2e-4597-acac-c0fa36368d08"> </script>
+	<script src="https://static.wellsfargo.com/assets/js/wfui/appdynamics/appdEUMConfig.js" nonce="45972ad7-7796-4d87-9aa6-548f7ca2b75f"> </script>
 	
-	<script type="text/javascript" nonce="ea45acc2-fc2e-4597-acac-c0fa36368d08">
+	<script type="text/javascript" nonce="45972ad7-7796-4d87-9aa6-548f7ca2b75f">
 		var akamaiImageHostUrl = "https:\/\/www17.wellsfargomedia.com";
 	</script>
 
@@ -98,7 +98,7 @@
 	
 	 
 	
-	<script nonce="ea45acc2-fc2e-4597-acac-c0fa36368d08">
+	<script nonce="45972ad7-7796-4d87-9aa6-548f7ca2b75f">
 		// if this line executes, then javascript is turned on and we'll
 		// therefore remove the no-js class from the HTML tag
         document.documentElement.className = document.documentElement.className.replace(/(^|\s)no-js(\s|$)/, '$1$2');
@@ -106,12 +106,12 @@
 	
  
 	
-	<script type="text/javascript" nonce="ea45acc2-fc2e-4597-acac-c0fa36368d08"> var utag_data = { app_id:'WWW',authenticated:'false',mpuid:'11202509232257361382840735',unique_id:'20250923105736',page_type:'BROWSER',tealium_js_path:'https://c1.wfinterface.com/tracking/main/utag.js',device_type:'',mt_tag_path:'https://c1.wfinterface.com/rtto/',customer_type:'',zip_code:'',environment:'PRODUCTION',lang_pref:'EN'} </script> 
-	<script type="text/javascript" nonce="ea45acc2-fc2e-4597-acac-c0fa36368d08"> var WFUI_CONTAINER = {"app_id":"WWW","environment":"PRODUCTION","top":{"sources":[]},"bottom":{"sources":[]}}; </script> 
+	<script type="text/javascript" nonce="45972ad7-7796-4d87-9aa6-548f7ca2b75f"> var utag_data = { app_id:'WWW',authenticated:'false',mpuid:'1120250924174337949879744',unique_id:'20250924054337',page_type:'BROWSER',tealium_js_path:'https://c1.wfinterface.com/tracking/main/utag.js',device_type:'',mt_tag_path:'https://c1.wfinterface.com/rtto/',customer_type:'',zip_code:'',environment:'PRODUCTION',lang_pref:'EN'} </script> 
+	<script type="text/javascript" nonce="45972ad7-7796-4d87-9aa6-548f7ca2b75f"> var WFUI_CONTAINER = {"app_id":"WWW","environment":"PRODUCTION","top":{"sources":[]},"bottom":{"sources":[]}}; </script> 
 	
 	 
 	 
-<script id="antiClickjack" type="text/javascript" nonce="ea45acc2-fc2e-4597-acac-c0fa36368d08">try{if (self != top){top.location = self.location;}}catch(err){}</script></head>
+<script id="antiClickjack" type="text/javascript" nonce="45972ad7-7796-4d87-9aa6-548f7ca2b75f">try{if (self != top){top.location = self.location;}}catch(err){}</script></head>
 
 
 
@@ -886,12 +886,12 @@
 	</div>
 	
 	
-	<img src="/assets/images/global/s.gif?log=1&cb=1758693456968&event=PageLoad&pid=tcm:222-160055-64&ptid=tcm:222-170471-128&pageUrl=https%3A%2F%2Fwww.wellsfargo.com%2Fhelp%2Fsecurity-and-fraud%2Fbiometric-faqs%2F&clist=84-160195-16~91-1889-32|84-16809-16~91-6222-32|84-6876-16~91-6227-32|84-212724-16~91-1924-32|84-159874-16~91-1924-32|84-148263-16~91-1924-32|84-38072-16~91-1924-32|84-245389-16~91-1924-32|84-329636-16~91-1924-32|84-8259-16~91-1865-32|84-36594-16~91-2830-32|84-292516-16~91-6213-32|84-292517-16~91-6213-32|84-292518-16~91-6213-32|84-292519-16~91-6213-32|84-292520-16~91-6213-32|84-292525-16~91-6213-32|84-292521-16~91-6213-32|84-292524-16~91-6213-32|84-292522-16~91-6213-32|84-292523-16~91-6213-32|84-8253-16~91-1866-32" alt=""/>
+	<img src="/assets/images/global/s.gif?log=1&cb=1758761017282&event=PageLoad&pid=tcm:222-160055-64&ptid=tcm:222-170471-128&pageUrl=https%3A%2F%2Fwww.wellsfargo.com%2Fhelp%2Fsecurity-and-fraud%2Fbiometric-faqs%2F&clist=84-160195-16~91-1889-32|84-16809-16~91-6222-32|84-6876-16~91-6227-32|84-212724-16~91-1924-32|84-159874-16~91-1924-32|84-148263-16~91-1924-32|84-38072-16~91-1924-32|84-245389-16~91-1924-32|84-329636-16~91-1924-32|84-8259-16~91-1865-32|84-36594-16~91-2830-32|84-292516-16~91-6213-32|84-292517-16~91-6213-32|84-292518-16~91-6213-32|84-292519-16~91-6213-32|84-292520-16~91-6213-32|84-292525-16~91-6213-32|84-292521-16~91-6213-32|84-292524-16~91-6213-32|84-292522-16~91-6213-32|84-292523-16~91-6213-32|84-8253-16~91-1866-32" alt=""/>
 	
 	
 	
 
-<script type="text/javascript" nonce="ea45acc2-fc2e-4597-acac-c0fa36368d08">
+<script type="text/javascript" nonce="45972ad7-7796-4d87-9aa6-548f7ca2b75f">
 var tasInfo = {
 "pageID" : "/help/security-and-fraud/biometric-faqs/",
 "Url" : "/tas",
@@ -904,10 +904,10 @@ var tasInfo = {
 	
 	
 	
-	<script type="text/javascript" src="/js/vendor/jquery.min.js" nonce="ea45acc2-fc2e-4597-acac-c0fa36368d08"> </script> 
-	<script type="text/javascript" src="/js/frameworks/jq/jquery-ui.js" nonce="ea45acc2-fc2e-4597-acac-c0fa36368d08"> </script> 
-	<script type="text/javascript" src="/js/global/global.js" nonce="ea45acc2-fc2e-4597-acac-c0fa36368d08"> </script> 
-	<script type="text/javascript" src="/js/frameworks/slick01.js" nonce="ea45acc2-fc2e-4597-acac-c0fa36368d08"></script>
+	<script type="text/javascript" src="/js/vendor/jquery.min.js" nonce="45972ad7-7796-4d87-9aa6-548f7ca2b75f"> </script> 
+	<script type="text/javascript" src="/js/frameworks/jq/jquery-ui.js" nonce="45972ad7-7796-4d87-9aa6-548f7ca2b75f"> </script> 
+	<script type="text/javascript" src="/js/global/global.js" nonce="45972ad7-7796-4d87-9aa6-548f7ca2b75f"> </script> 
+	<script type="text/javascript" src="/js/frameworks/slick01.js" nonce="45972ad7-7796-4d87-9aa6-548f7ca2b75f"></script>
 
 	
 	
@@ -917,12 +917,12 @@ var tasInfo = {
 	
 		 
            
-			 <script type="text/javascript" src="/js/tools/feedback/feedback.js"  nonce="ea45acc2-fc2e-4597-acac-c0fa36368d08"> </script> 
+			 <script type="text/javascript" src="/js/tools/feedback/feedback.js"  nonce="45972ad7-7796-4d87-9aa6-548f7ca2b75f"> </script> 
 		    
  
 	
 	
-	<script src="https://static.wellsfargo.com/assets/js/wfui/container/wfui-container-bottom.js" nonce="ea45acc2-fc2e-4597-acac-c0fa36368d08"></script>
+	<script src="https://static.wellsfargo.com/assets/js/wfui/container/wfui-container-bottom.js" nonce="45972ad7-7796-4d87-9aa6-548f7ca2b75f"></script>
 
-<script type="text/javascript"  src="/2WTOQAvyB_oz/ta6A_6/-r-Piw/JimabDJXSLJ4NDViD9/EzQmBQE/D0ZC/WloOAnY"></script></body>
+<script type="text/javascript"  src="/C8An/9hPt/cd/ha2u/380g/Ou3tQD8XffLrDQfY/dzojDwE/Nk/MxbkE5OTM"></script></body>
 </html>

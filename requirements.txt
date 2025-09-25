@@ -1,2 +1,7 @@
 beautifulsoup4 == 4.13.5
 requests == 2.32.5
+PyYAML
+beautifulsoup4>=4.12.0
+PyMuPDF>=1.24.0        # fallback if Docling missing
+langchain
+docling>=2.0.0         # if this fails to install, the code will auto-fallback to PyMuPDF

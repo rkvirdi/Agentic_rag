@@ -15,14 +15,14 @@
 	
 
 	
-	<script type="text/javascript" nonce="82577b38-f52a-4c36-88f1-058874684094">
+	<script type="text/javascript" nonce="348e6cef-5d33-470c-adb9-54202e2273b8">
 		var environment = "PRODUCTION";
 		var appd_key = "AD-AAB-ABJ-PZF";
 		var appd_js_path = "https:\/\/static.wellsfargo.com\/assets\/js\/wfui\/appdynamics";
 	</script>
-	<script src="https://static.wellsfargo.com/assets/js/wfui/appdynamics/appdEUMConfig.js" nonce="82577b38-f52a-4c36-88f1-058874684094"> </script>
+	<script src="https://static.wellsfargo.com/assets/js/wfui/appdynamics/appdEUMConfig.js" nonce="348e6cef-5d33-470c-adb9-54202e2273b8"> </script>
 	
-	<script type="text/javascript" nonce="82577b38-f52a-4c36-88f1-058874684094">
+	<script type="text/javascript" nonce="348e6cef-5d33-470c-adb9-54202e2273b8">
 		var akamaiImageHostUrl = "https:\/\/www17.wellsfargomedia.com";
 	</script>
 
@@ -98,7 +98,7 @@
 	
 	 
 	
-	<script nonce="82577b38-f52a-4c36-88f1-058874684094">
+	<script nonce="348e6cef-5d33-470c-adb9-54202e2273b8">
 		// if this line executes, then javascript is turned on and we'll
 		// therefore remove the no-js class from the HTML tag
         document.documentElement.className = document.documentElement.className.replace(/(^|\s)no-js(\s|$)/, '$1$2');
@@ -106,12 +106,12 @@
 	
  
 	
-	<script type="text/javascript" nonce="82577b38-f52a-4c36-88f1-058874684094"> var utag_data = { app_id:'WWW',authenticated:'false',mpuid:'11202509232257431879635893',unique_id:'20250923105743',page_type:'BROWSER',tealium_js_path:'https://c1.wfinterface.com/tracking/main/utag.js',device_type:'',mt_tag_path:'https://c1.wfinterface.com/rtto/',customer_type:'',zip_code:'',environment:'PRODUCTION',lang_pref:'EN'} </script> 
-	<script type="text/javascript" nonce="82577b38-f52a-4c36-88f1-058874684094"> var WFUI_CONTAINER = {"app_id":"WWW","environment":"PRODUCTION","top":{"sources":[]},"bottom":{"sources":[]}}; </script> 
+	<script type="text/javascript" nonce="348e6cef-5d33-470c-adb9-54202e2273b8"> var utag_data = { app_id:'WWW',authenticated:'false',mpuid:'11202509241743311820215257',unique_id:'20250924054331',page_type:'BROWSER',tealium_js_path:'https://c1.wfinterface.com/tracking/main/utag.js',device_type:'',mt_tag_path:'https://c1.wfinterface.com/rtto/',customer_type:'',zip_code:'',environment:'PRODUCTION',lang_pref:'EN'} </script> 
+	<script type="text/javascript" nonce="348e6cef-5d33-470c-adb9-54202e2273b8"> var WFUI_CONTAINER = {"app_id":"WWW","environment":"PRODUCTION","top":{"sources":[]},"bottom":{"sources":[]}}; </script> 
 	
 	 
 	 
-<script id="antiClickjack" type="text/javascript" nonce="82577b38-f52a-4c36-88f1-058874684094">try{if (self != top){top.location = self.location;}}catch(err){}</script></head>
+<script id="antiClickjack" type="text/javascript" nonce="348e6cef-5d33-470c-adb9-54202e2273b8">try{if (self != top){top.location = self.location;}}catch(err){}</script></head>
 
 
 
@@ -1106,12 +1106,12 @@
 	</div>
 	
 	
-	<img src="/assets/images/global/s.gif?log=1&cb=1758693463909&event=PageLoad&pid=tcm:222-16188-64&ptid=tcm:222-170471-128&pageUrl=https%3A%2F%2Fwww.wellsfargo.com%2Fhelp%2Finternational-remittances-faqs%2F&clist=182-19559-16~223-3727-32|182-170762-16~223-8778-32|84-15589-16~91-1889-32|84-15593-16~91-6222-32|84-6876-16~91-6227-32|84-195172-16~91-1924-32|84-195312-16~91-1924-32|84-16535-16~91-1924-32|84-16534-16~91-1924-32|84-127942-16~91-1924-32|84-67602-16~91-1924-32|84-162287-16~91-1924-32|84-184304-16~91-1924-32|84-186408-16~91-1924-32|84-155230-16~91-1924-32|84-155231-16~91-1924-32|84-45668-16~91-1924-32|84-16197-16~91-1924-32|84-241943-16~91-1924-32|84-40827-16~91-1924-32|84-20661-16~91-1924-32|84-195229-16~91-1924-32|84-246527-16~91-1924-32|84-8259-16~91-1865-32|84-36594-16~91-2830-32|84-16191-16~91-6213-32|84-16214-16~91-6213-32|84-16215-16~91-6213-32|84-16211-16~91-6213-32|84-16239-16~91-6213-32|84-16240-16~91-6213-32|84-16241-16~91-6213-32|84-16243-16~91-6213-32|84-16221-16~91-6213-32|84-16222-16~91-6213-32|84-16245-16~91-6213-32|84-164941-16~91-6213-32|84-8253-16~91-1866-32" alt=""/>
+	<img src="/assets/images/global/s.gif?log=1&cb=1758761011592&event=PageLoad&pid=tcm:222-16188-64&ptid=tcm:222-170471-128&pageUrl=https%3A%2F%2Fwww.wellsfargo.com%2Fhelp%2Finternational-remittances-faqs%2F&clist=182-19559-16~223-3727-32|182-170762-16~223-8778-32|84-15589-16~91-1889-32|84-15593-16~91-6222-32|84-6876-16~91-6227-32|84-195172-16~91-1924-32|84-195312-16~91-1924-32|84-16535-16~91-1924-32|84-16534-16~91-1924-32|84-127942-16~91-1924-32|84-67602-16~91-1924-32|84-162287-16~91-1924-32|84-184304-16~91-1924-32|84-186408-16~91-1924-32|84-155230-16~91-1924-32|84-155231-16~91-1924-32|84-45668-16~91-1924-32|84-16197-16~91-1924-32|84-241943-16~91-1924-32|84-40827-16~91-1924-32|84-20661-16~91-1924-32|84-195229-16~91-1924-32|84-246527-16~91-1924-32|84-8259-16~91-1865-32|84-36594-16~91-2830-32|84-16191-16~91-6213-32|84-16214-16~91-6213-32|84-16215-16~91-6213-32|84-16211-16~91-6213-32|84-16239-16~91-6213-32|84-16240-16~91-6213-32|84-16241-16~91-6213-32|84-16243-16~91-6213-32|84-16221-16~91-6213-32|84-16222-16~91-6213-32|84-16245-16~91-6213-32|84-164941-16~91-6213-32|84-8253-16~91-1866-32" alt=""/>
 	
 	
 	
 
-<script type="text/javascript" nonce="82577b38-f52a-4c36-88f1-058874684094">
+<script type="text/javascript" nonce="348e6cef-5d33-470c-adb9-54202e2273b8">
 var tasInfo = {
 "pageID" : "/help/international-remittances-faqs/",
 "Url" : "/tas",
@@ -1124,10 +1124,10 @@ var tasInfo = {
 	
 	
 	
-	<script type="text/javascript" src="/js/vendor/jquery.min.js" nonce="82577b38-f52a-4c36-88f1-058874684094"> </script> 
-	<script type="text/javascript" src="/js/frameworks/jq/jquery-ui.js" nonce="82577b38-f52a-4c36-88f1-058874684094"> </script> 
-	<script type="text/javascript" src="/js/global/global.js" nonce="82577b38-f52a-4c36-88f1-058874684094"> </script> 
-	<script type="text/javascript" src="/js/frameworks/slick01.js" nonce="82577b38-f52a-4c36-88f1-058874684094"></script>
+	<script type="text/javascript" src="/js/vendor/jquery.min.js" nonce="348e6cef-5d33-470c-adb9-54202e2273b8"> </script> 
+	<script type="text/javascript" src="/js/frameworks/jq/jquery-ui.js" nonce="348e6cef-5d33-470c-adb9-54202e2273b8"> </script> 
+	<script type="text/javascript" src="/js/global/global.js" nonce="348e6cef-5d33-470c-adb9-54202e2273b8"> </script> 
+	<script type="text/javascript" src="/js/frameworks/slick01.js" nonce="348e6cef-5d33-470c-adb9-54202e2273b8"></script>
 
 	
 	
@@ -1137,12 +1137,12 @@ var tasInfo = {
 	
 		 
            
-			 <script type="text/javascript" src="/js/tools/feedback/feedback.js"  nonce="82577b38-f52a-4c36-88f1-058874684094"> </script> 
+			 <script type="text/javascript" src="/js/tools/feedback/feedback.js"  nonce="348e6cef-5d33-470c-adb9-54202e2273b8"> </script> 
 		    
  
 	
 	
-	<script src="https://static.wellsfargo.com/assets/js/wfui/container/wfui-container-bottom.js" nonce="82577b38-f52a-4c36-88f1-058874684094"></script>
+	<script src="https://static.wellsfargo.com/assets/js/wfui/container/wfui-container-bottom.js" nonce="348e6cef-5d33-470c-adb9-54202e2273b8"></script>
 
-<script type="text/javascript"  src="/2WTOQAvyB_oz/ta6A_6/-r-Piw/JimabDJXSLJ4NDViD9/EzQmBQE/D0ZC/WloOAnY"></script></body>
+<script type="text/javascript"  src="/C8An/9hPt/cd/ha2u/380g/Ou3tQD8XffLrDQfY/dzojDwE/Nk/MxbkE5OTM"></script></body>
 </html>

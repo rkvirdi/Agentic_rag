@@ -99,15 +99,15 @@
 
 
 
-    <script type="text/javascript" nonce="520241dc-4f72-4b80-bb15-3f2f0779bf88">
+    <script type="text/javascript" nonce="78a49c8c-0622-433e-93c4-bd26b4bc2f97">
         var environment= "PRODUCTION"
         var appd_key= "AD-AAB-ABJ-PZF"
         var appd_js_path= "https://static.wellsfargo.com/assets/js/wfui/appdynamics"
     </script>
-    <script src="https://static.wellsfargo.com/assets/js/wfui/appdynamics/appdEUMConfig.js" nonce="520241dc-4f72-4b80-bb15-3f2f0779bf88">
+    <script src="https://static.wellsfargo.com/assets/js/wfui/appdynamics/appdEUMConfig.js" nonce="78a49c8c-0622-433e-93c4-bd26b4bc2f97">
     </script>
 
-<script type="text/javascript" nonce="520241dc-4f72-4b80-bb15-3f2f0779bf88">
+<script type="text/javascript" nonce="78a49c8c-0622-433e-93c4-bd26b4bc2f97">
  var akamaiImageHostUrl= "https://www17.wellsfargomedia.com"
 </script>
 
@@ -138,18 +138,18 @@
 	
 		
 	
-	<script nonce="520241dc-4f72-4b80-bb15-3f2f0779bf88">
+	<script nonce="78a49c8c-0622-433e-93c4-bd26b4bc2f97">
     	// if this line executes, then javascript is turned on and we'll therefore remove the no-js class from the HTML tag
     	document.documentElement.className = document.documentElement.className.replace(/(^|\s)no-js(\s|$)/, '$1$2');
   	</script>
     
 
-	    <script type="text/javascript" nonce="520241dc-4f72-4b80-bb15-3f2f0779bf88"> var utag_data = { app_id:'WWW',authenticated:'false',mpuid:'1120250923225754362947487',unique_id:'20250923105754',page_type:'BROWSER',tealium_js_path:'https://c1.wfinterface.com/tracking/main/utag.js',device_type:'',mt_tag_path:'https://c1.wfinterface.com/rtto/',customer_type:'',zip_code:'',environment:'PRODUCTION',lang_pref:'EN'} </script> 
+	    <script type="text/javascript" nonce="78a49c8c-0622-433e-93c4-bd26b4bc2f97"> var utag_data = { app_id:'WWW',authenticated:'false',mpuid:'11202509241744051910397437',unique_id:'20250924054405',page_type:'BROWSER',tealium_js_path:'https://c1.wfinterface.com/tracking/main/utag.js',device_type:'',mt_tag_path:'https://c1.wfinterface.com/rtto/',customer_type:'',zip_code:'',environment:'PRODUCTION',lang_pref:'EN'} </script> 
 
-	    <script type="text/javascript" nonce="520241dc-4f72-4b80-bb15-3f2f0779bf88"> var WFUI_CONTAINER = {"app_id":"WWW","environment":"PRODUCTION","top":{"sources":[]},"bottom":{"sources":[]}}; </script> 
+	    <script type="text/javascript" nonce="78a49c8c-0622-433e-93c4-bd26b4bc2f97"> var WFUI_CONTAINER = {"app_id":"WWW","environment":"PRODUCTION","top":{"sources":[]},"bottom":{"sources":[]}}; </script> 
 
 	
-<script id="antiClickjack" type="text/javascript" nonce="520241dc-4f72-4b80-bb15-3f2f0779bf88">try{if (self != top){top.location = self.location;}}catch(err){}</script></head>
+<script id="antiClickjack" type="text/javascript" nonce="78a49c8c-0622-433e-93c4-bd26b4bc2f97">try{if (self != top){top.location = self.location;}}catch(err){}</script></head>
 
  
         
@@ -371,15 +371,13 @@
                 
         			<h2>Top questions</h2><div class="c58" id="howdoisetupaddordeletealertsf" data-cid="tcm:84-17204-16" data-ctid="tcm:91-6213-32">
 		<h3 class="c58question">How do I set up, add, or delete alerts<sup class="c20ref" data-footnote="tcm:84-170735-16"></sup>?</h3>	
-		<div class="c58answer">
-			<ul>
-<li>Sign on to Wells Fargo Online<sup>®</sup> and go to <a href="https://connect.secure.wellsfargo.com/auth/login/ulink?serviceType=manageAlertsNative" enrollmentid="2429">Manage Alerts</a>.</li>
+		<div class="c58answer"><ul>
+<li>Sign on to Wells Fargo Online<sup>®</sup> and go to <a href="https://connect.secure.wellsfargo.com/auth/login/ulink?serviceType=manageAlertsNative&amp;marketChannel=WWW" enrollmentid="2429">Manage Alerts</a>.</li>
 <li>Choose an account for which you want to add or edit alerts.</li>
 <li>Check the boxes to select or de-select specific alerts.</li>
 <li>Enter dollar thresholds and frequency of alerts where appropriate.</li>
 <li>Save your edits.</li>
-</ul>
-		</div>
+</ul></div>
 	</div><div class="c58" id="whichaccountsareeligibleforalerts" data-cid="tcm:84-17189-16" data-ctid="tcm:91-6213-32">
 		<h3 class="c58question">Which accounts are eligible for alerts?</h3>	
 		<div class="c58answer"><ul>
@@ -461,8 +459,8 @@ If you see alerts in your Message Center, please verify that you provided the co
 		<h3 class="c58question">What do I do if my mobile number changes?</h3>	
 		<div class="c58answer"><p>If your mobile number changes:</p>
 <ol>
-<li>Sign on to access <a enrollmentid="2429" href="https://connect.secure.wellsfargo.com/auth/login/ulink?serviceType=changeAddress">Update Contact Information</a>.</li>
-<li>Enter your new mobile number, and check the box to enroll it for text messages<sup class="c20ref" data-footnote="tcm:84-187417-16"></sup>.</li>
+<li>Sign on to access <a href="https://connect.secure.wellsfargo.com/auth/login/ulink?serviceType=changeAddress&amp;marketChannel=WWW" enrollmentid="2429">Update Contact Information</a>.</li>
+<li>Enter your new mobile number, and check the box to enroll it for text messages.</li>
 <li>Accept the <strong>Consent to receive text messages</strong>.</li>
 <li>Reply <strong>YES ENROLL</strong> to the text we send to your mobile phone from the Wells Fargo shortcode 93557.</li>
 <li>Go to <strong>Manage Alerts</strong> to subscribe to text alerts for your new mobile number.</li>
@@ -553,8 +551,6 @@ OR
                 
 					<div class="c20" role="complementary"><div class="c20body" data-numbered="true" data-cid="tcm:84-170735-16" data-ctid="tcm:91-1924-32">
 <p>Sign-up may be required. Availability may be affected by your mobile carrier's coverage area. Your mobile carrier's message and data rates may apply.</p>
-</div><div class="c20body" data-numbered="true" data-cid="tcm:84-187417-16" data-ctid="tcm:91-1924-32">
-<p>Availability may be affected by your mobile carrier’s coverage area. Your mobile carrier’s message and data rates may apply.</p>
 </div><div class="c20body" data-numbered="true" data-cid="tcm:84-123521-16" data-ctid="tcm:91-1924-32">
 <p>Availability may be affected by your mobile carrier's coverage area. Your mobile carrier's message and data rates may apply.</p>
 </div><div class="c20body" data-numbered="false" data-cid="tcm:84-148263-16" data-ctid="tcm:91-1924-32">
@@ -711,7 +707,7 @@ OR
 </div>
 
 
-<img src="/assets/images/global/s.gif?log=1&cb=1758693474516&event=PageLoad&pid=222-17258-64&ptid=91-6232-128&pageUrl=https%3A%2F%2Fwww.wellsfargo.com%2Fhelp%2Fonline-banking%2Falerts-faqs%2F&clist=182-154364-16~223-3757-32|84-17204-16~91-6213-32|84-17189-16~91-6213-32|84-17207-16~91-6213-32|182-157555-16~223-3757-32|84-17224-16~91-6213-32|84-17225-16~91-6213-32|84-17226-16~91-6213-32|84-53536-16~91-6213-32|84-17212-16~91-6213-32|84-17222-16~91-6213-32|84-17234-16~91-6213-32|182-162386-16~223-3757-32|84-17208-16~91-6213-32|84-17191-16~91-6213-32|84-17215-16~91-6213-32|84-17217-16~91-6213-32|84-17219-16~91-6213-32|84-17220-16~91-6213-32|84-17221-16~91-6213-32|182-162387-16~223-3757-32|84-20759-16~91-6213-32|84-20760-16~91-6213-32|84-54066-16~91-6213-32|84-20758-16~91-6213-32|84-20757-16~91-6213-32|84-177792-16~91-6213-32|84-170735-16~91-1924-32|84-187417-16~91-1924-32|84-123521-16~91-1924-32|84-148263-16~91-1924-32|84-38072-16~91-1924-32|84-6793-16~91-1924-32|84-235957-16~91-1924-32|84-17256-16~91-1889-32|84-16809-16~91-6222-32|84-6876-16~91-6227-32" alt=""/>
+<img src="/assets/images/global/s.gif?log=1&cb=1758761045369&event=PageLoad&pid=222-17258-64&ptid=91-6232-128&pageUrl=https%3A%2F%2Fwww.wellsfargo.com%2Fhelp%2Fonline-banking%2Falerts-faqs%2F&clist=182-154364-16~223-3757-32|84-17204-16~91-6213-32|84-17189-16~91-6213-32|84-17207-16~91-6213-32|182-157555-16~223-3757-32|84-17224-16~91-6213-32|84-17225-16~91-6213-32|84-17226-16~91-6213-32|84-53536-16~91-6213-32|84-17212-16~91-6213-32|84-17222-16~91-6213-32|84-17234-16~91-6213-32|182-162386-16~223-3757-32|84-17208-16~91-6213-32|84-17191-16~91-6213-32|84-17215-16~91-6213-32|84-17217-16~91-6213-32|84-17219-16~91-6213-32|84-17220-16~91-6213-32|84-17221-16~91-6213-32|182-162387-16~223-3757-32|84-20759-16~91-6213-32|84-20760-16~91-6213-32|84-54066-16~91-6213-32|84-20758-16~91-6213-32|84-20757-16~91-6213-32|84-177792-16~91-6213-32|84-170735-16~91-1924-32|84-123521-16~91-1924-32|84-148263-16~91-1924-32|84-38072-16~91-1924-32|84-6793-16~91-1924-32|84-235957-16~91-1924-32|84-17256-16~91-1889-32|84-16809-16~91-6222-32|84-6876-16~91-6227-32" alt=""/>
 
 
  
@@ -721,16 +717,16 @@ OR
 	
 
 
-<script type="text/javascript" nonce="520241dc-4f72-4b80-bb15-3f2f0779bf88">
+<script type="text/javascript" nonce="78a49c8c-0622-433e-93c4-bd26b4bc2f97">
 	var tasInfo={"pageID":"/help/online-banking/alerts-faqs/","Url":"/tas","App_ID":"WWW",
 				"deviceType":"Mobile"};	
 </script>
-<script src="/js/vendor/jquery.min.js" nonce="520241dc-4f72-4b80-bb15-3f2f0779bf88"></script>
-<script src="/js/frameworks/jq/jquery-ui.js" nonce="520241dc-4f72-4b80-bb15-3f2f0779bf88"></script>
-<script src="/js/global/global.js" nonce="520241dc-4f72-4b80-bb15-3f2f0779bf88"></script>
+<script src="/js/vendor/jquery.min.js" nonce="78a49c8c-0622-433e-93c4-bd26b4bc2f97"></script>
+<script src="/js/frameworks/jq/jquery-ui.js" nonce="78a49c8c-0622-433e-93c4-bd26b4bc2f97"></script>
+<script src="/js/global/global.js" nonce="78a49c8c-0622-433e-93c4-bd26b4bc2f97"></script>
 
 	
-		<script src="/js/tools/feedback/feedback.js" nonce="520241dc-4f72-4b80-bb15-3f2f0779bf88"></script>
+		<script src="/js/tools/feedback/feedback.js" nonce="78a49c8c-0622-433e-93c4-bd26b4bc2f97"></script>
 	
 
 
@@ -740,8 +736,8 @@ OR
 
 
 
-    <script src="https://static.wellsfargo.com/assets/js/wfui/container/wfui-container-bottom.js" nonce="520241dc-4f72-4b80-bb15-3f2f0779bf88"></script>
+    <script src="https://static.wellsfargo.com/assets/js/wfui/container/wfui-container-bottom.js" nonce="78a49c8c-0622-433e-93c4-bd26b4bc2f97"></script>
 
 
 
-<script type="text/javascript"  src="/2WTOQAvyB_oz/ta6A_6/-r-Piw/JimabDJXSLJ4NDViD9/EzQmBQE/D0ZC/WloOAnY"></script></body></html>
+<script type="text/javascript"  src="/C8An/9hPt/cd/ha2u/380g/Ou3tQD8XffLrDQfY/dzojDwE/Nk/MxbkE5OTM"></script></body></html>

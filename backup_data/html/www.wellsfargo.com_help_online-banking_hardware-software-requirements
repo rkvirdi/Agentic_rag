@@ -1,0 +1,550 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"  class="no-js" lang="en"> 
+<head>
+   <link rel="preconnect" href="https://www17.wellsfargomedia.com/">
+<link rel="dns-prefetch" href="https://www17.wellsfargomedia.com/">
+<link rel="preconnect" href="https://c1.wfinterface.com/">
+<link rel="dns-prefetch" href="https://c1.wfinterface.com/">
+<link rel="preconnect" href="https://static.wellsfargo.com/">
+<link rel="dns-prefetch" href="https://static.wellsfargo.com/">
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<title>Online Hardware and Software Requirements – Wells Fargo</title>
+	
+	
+	
+	
+	
+        
+
+ 
+			
+		<meta name="description" content="Wells Fargo Online hardware and software requirements."/>
+		
+	
+		<meta name="keywords" content="Operating System, software, hardware, Software, OS, operating system, Hardware"/>
+	
+	
+		<meta name="robots" content="index, follow"/>
+	
+	
+                                                                
+                                                                                
+                                                                                
+                                                                
+                                                                                                               <link rel="canonical" href="https://www.wellsfargo.com/help/online-banking/hardware-software-requirements/" />
+                                                                                               
+                                                
+                                                         
+                                
+                
+
+        
+        
+	 
+
+
+
+
+
+
+	<link rel="alternate" href="https://www.wellsfargo.com/help/online-banking/hardware-software-requirements/"  hreflang="en-us" />
+
+	<link rel="alternate" href="https://www.wellsfargo.com/es/help/online-banking/hardware-software-requirements/"  hreflang="es-us" />
+
+    
+
+
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+
+    <script type="text/javascript" nonce="c9673772-069d-45c1-b2b4-17b59edc22df">
+        var environment= "PRODUCTION"
+        var appd_key= "AD-AAB-ABJ-PZF"
+        var appd_js_path= "https://static.wellsfargo.com/assets/js/wfui/appdynamics"
+    </script>
+    <script src="https://static.wellsfargo.com/assets/js/wfui/appdynamics/appdEUMConfig.js" nonce="c9673772-069d-45c1-b2b4-17b59edc22df">
+    </script>
+
+<script type="text/javascript" nonce="c9673772-069d-45c1-b2b4-17b59edc22df">
+ var akamaiImageHostUrl= "https://www17.wellsfargomedia.com"
+</script>
+
+	<link rel="stylesheet" href="https://www.wellsfargo.com/css/template/global.css" />
+	<link rel="stylesheet" href="https://www.wellsfargo.com/css/template/ui-lightness/jquery-ui.custom.css">
+	<link rel="preload" as="style" href="https://www.wellsfargo.com/css/template/print.css" media="print" />
+	<link rel="stylesheet" href="https://www.wellsfargo.com/css/template/print.css" media="print" />
+
+	
+
+	
+		
+		
+		
+			
+				<link rel="icon" href="https://www17.wellsfargomedia.com/favicon.ico"/>
+					<link rel="apple-touch-icon" sizes="120x120" href="https://www17.wellsfargomedia.com/assets/images/icons/apple-touch-icon_120x120.png"/>
+                				<link rel="apple-touch-icon" sizes="180x180" href="https://www17.wellsfargomedia.com/assets/images/icons/apple-touch-icon_180x180.png"/>
+                				<link rel="icon" sizes="128x128" href="https://www17.wellsfargomedia.com/assets/images/icons/icon-normal_128x128.png"/>
+                				<link rel="icon" sizes="192x192" href="https://www17.wellsfargomedia.com/assets/images/icons/icon-hires_192x192.png"/>
+                				<link rel="icon" type="image/png" href="https://www17.wellsfargomedia.com/assets/images/icons/favicon_16x32x48.png">
+			
+		
+	
+
+	
+	<script nonce="c9673772-069d-45c1-b2b4-17b59edc22df">
+    	// if this line executes, then javascript is turned on and we'll therefore remove the no-js class from the HTML tag
+    	document.documentElement.className = document.documentElement.className.replace(/(^|\s)no-js(\s|$)/, '$1$2');
+  	</script>
+    
+
+	    <script type="text/javascript" nonce="c9673772-069d-45c1-b2b4-17b59edc22df"> var utag_data = { app_id:'WWW',authenticated:'false',mpuid:'11202509232257581191548616',unique_id:'20250923105758',page_type:'BROWSER',tealium_js_path:'https://c1.wfinterface.com/tracking/main/utag.js',device_type:'',mt_tag_path:'https://c1.wfinterface.com/rtto/',customer_type:'',zip_code:'',environment:'PRODUCTION',lang_pref:'EN'} </script> 
+
+	    <script type="text/javascript" nonce="c9673772-069d-45c1-b2b4-17b59edc22df"> var WFUI_CONTAINER = {"app_id":"WWW","environment":"PRODUCTION","top":{"sources":[]},"bottom":{"sources":[]}}; </script> 
+
+	
+<script id="antiClickjack" type="text/javascript" nonce="c9673772-069d-45c1-b2b4-17b59edc22df">try{if (self != top){top.location = self.location;}}catch(err){}</script></head>
+
+ 
+        
+ 
+<body>
+
+
+
+
+
+
+
+<div id="shell" class="t8" data-pid="222-17248-64" data-ptid="91-6232-128" data-lightbox-print="false">
+
+
+
+
+
+    
+	
+		<a href="#skip" class="hidden">Skip to content</a>
+	
+
+
+	
+		
+                                 
+          
+                    
+
+
+
+
+
+
+<header role="banner">
+   	<div id="masthead" class="html5header c1 nxg">	
+        <div class="wfLogoStripParent">
+              <div class="wfLogoStripChild">
+		    <div id="brand">
+                <a href="/"><img alt="Wells Fargo Home Page" src="https://www17.wellsfargomedia.com/assets/images/css/template/homepage/homepage-horz-logo.svg" /></a>
+            </div>
+	    <div id="topSearch">
+				
+				
+				
+					<ul>		
+				
+				
+					<li role="presentation">
+		<a href="https://connect.secure.wellsfargo.com/auth/login/present?origin=cob&amp;LOB=CONS" class="signIn">
+			<img alt="Secure" src="https://www17.wellsfargomedia.com/assets/images/css/template/homepage/homepage-lock.svg" />
+			Sign On
+		</a>
+	</li>
+				
+				
+					<li role="presentation">
+        <a href="/help/">Customer Service</a>
+      </li>
+				
+					<li role="presentation">
+        <a href="/locator/">ATMs/Locations</a>
+      </li>
+				
+					<li role="presentation">
+		<a href="/spanish/" id="langPrefToggle" class="spTogglePersonal" xml:lang="es" name="langPrefToggle" lang="es">Español</a>
+	</li>
+					
+			</ul>
+			
+			    				
+				
+				     <div id="nxgSearch">
+						<button id="nxgSearchButton">
+							<span class="nxgSearchText">Search</span>&nbsp;
+							<span class="nxgVisuallyHidden" id="nxgSearchDescription">Opens a dialog.</span>
+							<span class="nxgSearchIcon"></span>
+						</button>
+                     </div>
+				
+			
+		</div>
+        </div>
+     </div>
+	  
+			<div id="mainNav">
+				<nav aria-label="account type"> 
+					
+							  
+									<div class="html5nav" id="tabNav" >
+										<ul>
+											
+											   
+        
+						<li class="active">
+				<a id="tabNavPersonal" class="tabNavLink" href="/" name="tabNavPersonal">
+					<span class="hidden">selected</span>
+					Personal
+				</a>
+			</li>
+					
+      
+											
+											   
+<li><a href="/investing-wealth/" class="tabNavLink" id="tabInvestingWealth" name="tabInvestingWealth">Investing &amp; Wealth Management</a></li>
+
+											
+											   
+<li><a href="/biz/" class="tabNavLink" id="tabNavSmallBusiness" name="tabNavSmallBusiness">Small Business</a></li>
+
+											
+											   
+<li><a href="/com/" class="tabNavLink" id="tabNavCommercial" name="tabNavCommercial">Commercial Banking</a></li>
+
+											
+											   
+<li><a href="/cib/" class="tabNavLink" id="tabNavCorporateBanking" name="tabNavCorporateBanking">Corporate &amp; Investment Banking</a></li>
+
+											
+										</ul>
+									</div>
+								
+					
+				    
+			    </nav>
+			</div>
+
+    </div>
+</header>
+          
+                                 
+          
+                    <br />
+<div class="c29content" data-content-id="c29content00">
+<p>Navegó a una página que no está disponible en español en este momento. Seleccione el enlace si desea ver otro contenido en español.</p>
+<a href="/spanish/">Página principal</a></div>
+<div id="customc28" style="display:none;">
+<div id="customc28backdrop"> </div>
+<div class="c28mainContainer c28CustomContainer" role="dialog" aria-labelledby="c28topFocusCustom" xml:lang="es" lang="es"><span id="c28topFocusCustom" class="hidden">Comienzo de ventana emergente</span>
+<div class="c28topContainer"><a class="c28close" id="c28close" href="javascript:void(0)" style="display: inline;" name="c28close" xml:lang="en" lang="en"><img alt="Close" role="button" src="https://www17.wellsfargomedia.com/assets/images/global/btn-close-x.png" /></a></div>
+<h2>Esta página solo está disponible en inglés</h2>
+<p>Selecione Cancele para permanecer en esta página o Continúe para ver nuestra página principal en español.</p>
+<div class="balloonButtons balloonButtonsCustom"><a href="javascript:void(0)" id="balloon-cancel" class="customc28cancel balloon-cancel" name="balloon-cancel">Cancele</a> <a href="/es/" class="c7 utilitybtn" id="popupContinue" name="popupContinue">Continúe</a></div>
+<span id="c28bottomFocusCustom" class="hidden">Fin de ventana emergente</span></div>
+</div>          
+                                 
+          
+
+
+	
+    
+    
+    <div class="c42">	
+    	 
+		<nav><div class="html5nav">
+                                                                        <ul class="c67"><li><a href="/">Personal</a></li><li><a href="/help">Customer Service</a></li><li><a href="/help/online-banking">Online Banking Help</a></li><li class="last">Wells Fargo Online<em xmlns="http://www.w3.org/1999/xhtml"><sup>®</sup></em> Technical Requirements</li></ul>
+                                                                  </div></nav>
+        
+
+        
+        
+        
+			<div id="title">
+				
+				
+					<h1 class="c11" id="skip" tabindex="-1">Wells Fargo Online<em><sup>®</sup></em> Technical Requirements</h1>
+					<div class="headerLocation">
+					
+					</div>
+					
+				
+			</div>
+        
+        
+
+
+        
+        
+
+ 
+ 
+ 
+        
+			<div class="sideUtility top">
+					<ul>
+						<li><a href="#" class="printLink"> 
+								 
+									
+								
+									Print
+								
+							
+						 </a></li>
+					</ul>
+
+			<div class="c52 hide" aria-hidden="true" aria-label="popup"></div>
+		</div>
+        
+
+ 
+         
+ 
+
+  
+  </div> 
+    
+    <div id="contentTop">
+	
+
+
+        
+    </div>
+	
+	<div class="cols"  id="mainColumns">
+		<div class="mainContentCol">
+        	<div id="contentBody">
+                
+                
+        			 <p>To provide you the most effective and secure online access to Wells Fargo accounts and services, we strongly recommend that you use or upgrade to the latest version of software supported by Wells Fargo. If you have any questions, please <a href="/help/contact-us/" title="222_index">contact us</a>.</p>
+<h2>Browser Requirements</h2>
+<p>We are continually upgrading our online services to provide you with the most valuable and secure online access. As we add new features and enhancements to our service, there are certain browser versions that do not support these changes. We recommend that you use the latest version of the supported browsers or the Wells Fargo Mobile<sup>®</sup><sup class="c20ref" data-footnote="tcm:84-123521-16"></sup> app available, keep your security settings up-to-date and that you enable JavaScript.  In certain circumstances, we may block certain browsers and software from accessing Wells Fargo Online<sup>®</sup> and Wells Fargo Mobile app due to possible security risks and may not be able to inform you in advance.</p>
+<p>Wells Fargo's minimum encryption requirement for accessing your Wells Fargo account(s) online is 128-bit encrypted browsers. </p>
+<p>For more details, please read the <a href="/help/online-banking/browser-supported/" title="supported browsers">supported browsers</a> page or <a href="/help/online-banking/troubleshoot-faqs/" title="222_troubleshoot-faqs">browser frequently asked questions</a>.</p>
+<h2>PDF Requirements</h2>
+<p>Adobe<sup>®</sup> Reader<sup>®</sup> software is required to access documents being provided to you in PDF format (for example, Online Statements or Spending Reports). <a href="/assets/pdf/personal/help/tester.pdf" data-pdf="true" xmlns:tridion="http://www.tridion.com/ContentManager/5.0">Take our PDF test (PDF)</a> to confirm that you have the Adobe Reader software required to view and save PDF files. To access some PDF documents on our site, you may be required to use a later version of Adobe Reader. <a href="/exit/e?id=117248222" title="Download Adobe Reader" class="c28aLink" data-cid="tcm:182-17239-16" data-ctid="tcm:223-3757-32">Download Adobe Reader</a> for free.
+<br />
+
+ 
+ </p> 
+
+<p><strong>Important PDF Reminder:</strong></p>
+<ul>
+<li><strong>For Mac users:</strong> If you access a PDF document from a Mac, the PDF may be automatically copied to its desktop or to an easily accessible download folder.</li>
+<li><strong>For PC users:</strong> If you access a PDF document from a PC, the PDF may remain among its cached files.</li>
+</ul>
+<p>Personal information such as Online Statements<sup class="c20ref" data-footnote="tcm:84-17744-16"></sup> or 1099-INT tax statements may easily be accessed by others using the same computer if left on the desktop, in a download folder or in the cache. If you are in a non-secure location, be sure to delete the file after viewing it and empty the Trash (for Macs) and or clear your cache (for PCs).</p> <h2>Wireless Device Requirements</h2>
+<p>Wireless devices (such as cell phones and pagers) must be text-enabled in order to receive messages via the Alerts<sup class="c20ref" data-footnote="tcm:84-170735-16"></sup> Service.</p>
+<h2>Mobile Requirements</h2>
+<p>We are continually upgrading our online services to provide you with the most valuable and secure online access. As we add new features and enhancements to our mobile app, there are certain operating systems that do not support these changes.  Download the latest version of the <a href="/mobile-online-banking/apps/" xmlns="http://www.wellsfargo.com/tridion/schema/text">Wells Fargo Mobile app</a> on the devices with operating systems Wells Fargo supports. The Wells Fargo Mobile app is updated on a regular basis to optimize performance, fix issues, and add new features into the app. Download the latest version of the app in the app store. </p>
+<p>For more details, please read the <a enrollmentid="0000" href="http://www.wellsfargo.com/help/online-banking/browser-supported/">supported browsers</a> page or <a href="/help/mobile-features/mobile-faqs/">Wells Fargo Mobile frequently asked questions</a>.</p>
+<h2>Hardware and Operating System Requirements</h2>
+<p>Please consult with your browser vendor and <a title="Adobe" href="/exit/e?id=217248222" class="c28aLink" data-cid="tcm:182-17245-16" data-ctid="tcm:223-3757-32">Adobe</a> regarding the minimum hardware and operating system requirements that apply to the software versions you are currently using or wish to install.</p>
+<p>Links to browser vendor websites, including information on minimum hardware and operating system requirements can be found at the <a href="/help/online-banking/browser-supported/" title="222_browser-supported">Supported Browsers</a> page.</p>
+<p><strong>Please Note:</strong> When you make changes to your computer software or equipment, our system may require you to re-confirm your identity online the next time you visit our Web site to conduct online transactions. This is for your own protection.</p> 
+
+
+
+
+
+
+                
+			</div>
+			
+            <div id="contentBottom">
+                
+                
+					<div class="c20" role="complementary"><div class="c20body" data-numbered="true" data-cid="tcm:84-123521-16" data-ctid="tcm:91-1924-32">
+<p>Availability may be affected by your mobile carrier's coverage area. Your mobile carrier's message and data rates may apply.</p>
+</div><div class="c20body" data-numbered="true" data-cid="tcm:84-17744-16" data-ctid="tcm:91-1924-32">
+<p>Online Statements require Adobe<sup>®</sup> Acrobat<sup>®</sup> PDF reader. The length of time Online Statements are available to view and download varies depending on the product: up to 12 months for auto loans; up to 2 years for credit cards, home equity lines of credit, and personal loans and lines of credit; and up to 7 years for deposit accounts, home mortgage accounts, and trust and managed investment accounts. The length of time the specific product statements are available online can be found in Wells Fargo Online<sup>®</sup> in Statements &amp; documents. Availability may be affected by your mobile carrier's coverage area. Your mobile carrier’s message and data rates may apply.</p>
+</div><div class="c20body" data-numbered="true" data-cid="tcm:84-170735-16" data-ctid="tcm:91-1924-32">
+<p>Sign-up may be required. Availability may be affected by your mobile carrier's coverage area. Your mobile carrier's message and data rates may apply.</p>
+</div><div class="c20body" data-numbered="false" data-cid="tcm:84-148263-16" data-ctid="tcm:91-1924-32">
+<p>Android, Google Play, Chrome, Pixel and other marks are trademarks of Google LLC.</p>
+</div><div class="c20body" data-numbered="false" data-cid="tcm:84-38072-16" data-ctid="tcm:91-1924-32">
+<p>Apple, the Apple logo, Apple Pay, Apple Watch, Face ID, iCloud Keychain, iPad, iPad Pro, iPhone, iTunes, Mac, Safari, and Touch ID are trademarks of Apple Inc., registered in the U.S. and other countries. Apple Wallet is a trademark of Apple Inc. App Store is a service mark of Apple Inc.</p>
+</div><div class="c20body" data-numbered="false" data-cid="tcm:84-224165-16" data-ctid="tcm:91-1924-32">
+<p>Firefox is a trademark of the Mozilla Foundation in the U.S. and other countries.</p>
+</div><div class="c20body" data-numbered="false" data-cid="tcm:84-224164-16" data-ctid="tcm:91-1924-32">
+<p>Microsoft Edge is a trademark of the Microsoft group of companies.</p>
+</div><div class="c20body" data-numbered="false" data-cid="tcm:84-233857-16" data-ctid="tcm:91-1924-32">
+<p>QSR-12042025-6668346.1.1</p>
+</div><div class="c20body" data-numbered="false" data-cid="tcm:84-304790-16" data-ctid="tcm:91-1924-32">
+<p>LRC-0624</p>
+</div></div>
+                
+			</div>       
+        </div>
+		
+		<aside><div class="html5aside">
+			<div class="secondaryCol">
+				
+			</div>
+		</div></aside>
+	</div> 
+	
+	
+		
+ 	
+   
+     
+  
+
+  
+
+
+
+
+<footer role="contentinfo">
+	<div class="html5footer c9" id="pageFooter">
+          
+            
+                <div class="c9content">
+    
+    
+    <nav role="navigation">
+            	<div class="html5nav">
+					<ul class="navList">						
+                        
+                        <li>
+					<a data-cid="tcm:84-8253-16" data-ctid="tcm:91-1866-32"   href="/privacy-security/">Privacy, Cookies, Security &amp; Legal</a>
+				</li>
+                        
+                        <li>
+                                       <a href="/privacy-security/opt-out-notice/">Do Not Sell or Share My Personal Information</a>
+                                </li>
+                        
+                        <li>
+					<a data-cid="tcm:84-8253-16" data-ctid="tcm:91-1866-32"   href="/privacy-security/notice-of-data-collection/">Notice of Data Collection</a>
+				</li>
+                        
+                        <li>
+					<a data-cid="tcm:84-8253-16" data-ctid="tcm:91-1866-32"   href="/privacy-security/terms/">General Terms of Use</a>
+				</li>
+                        
+                        <li>
+					<a data-cid="tcm:84-8253-16" data-ctid="tcm:91-1866-32"   href="/privacy-security/fraud/report/">Report Fraud</a>
+				</li>
+                        
+                        <li>
+					<a data-cid="tcm:84-8253-16" data-ctid="tcm:91-1866-32"   href="/sitemap">Sitemap</a>
+				</li>
+                        
+                        <li>
+					<a data-cid="tcm:84-8253-16" data-ctid="tcm:91-1866-32"   href="/about/">About Wells Fargo</a>
+				</li>
+                        
+                        <li>
+		<a data-cid="tcm:84-8253-16" data-ctid="tcm:91-1866-32"   href="/about/careers/">Careers</a>
+	</li>
+                        
+                        <li>
+					<a data-cid="tcm:84-8253-16" data-ctid="tcm:91-1866-32"   href="/about/inclusion/">Inclusion and Accessibility</a>
+				</li>
+                        
+                        <li>
+					<a href="/">Home</a>
+				</li>
+                                               
+					</ul>
+				</div>
+			</nav>
+    
+
+    
+		<p>© 1999 - 2025 Wells Fargo. NMLSR ID 399801</p>
+	
+
+</div>            
+        
+
+        
+    </div>
+</footer>
+
+
+
+  
+</div>
+
+
+<img src="/assets/images/global/s.gif?log=1&cb=1758693478710&event=PageLoad&pid=222-17248-64&ptid=91-6232-128&pageUrl=https%3A%2F%2Fwww.wellsfargo.com%2Fhelp%2Fonline-banking%2Fhardware-software-requirements%2F&clist=182-17239-16~223-3757-32|182-17273-16~223-3757-32|182-17245-16~223-3757-32|182-47775-16~91-2049-32|84-123521-16~91-1924-32|84-17744-16~91-1924-32|84-170735-16~91-1924-32|84-148263-16~91-1924-32|84-38072-16~91-1924-32|84-224165-16~91-1924-32|84-224164-16~91-1924-32|84-233857-16~91-1924-32|84-304790-16~91-1924-32" alt=""/>
+
+
+ 
+	
+		
+	
+	
+
+
+<script type="text/javascript" nonce="c9673772-069d-45c1-b2b4-17b59edc22df">
+	var tasInfo={"pageID":"/help/online-banking/hardware-software-requirements/","Url":"/tas","App_ID":"WWW",
+				"deviceType":"Mobile"};	
+</script>
+<script src="/js/vendor/jquery.min.js" nonce="c9673772-069d-45c1-b2b4-17b59edc22df"></script>
+<script src="/js/frameworks/jq/jquery-ui.js" nonce="c9673772-069d-45c1-b2b4-17b59edc22df"></script>
+<script src="/js/global/global.js" nonce="c9673772-069d-45c1-b2b4-17b59edc22df"></script>
+
+
+
+
+
+
+
+
+    <script src="https://static.wellsfargo.com/assets/js/wfui/container/wfui-container-bottom.js" nonce="c9673772-069d-45c1-b2b4-17b59edc22df"></script>
+
+
+
+<script type="text/javascript"  src="/2WTOQAvyB_oz/ta6A_6/-r-Piw/JimabDJXSLJ4NDViD9/EzQmBQE/D0ZC/WloOAnY"></script></body></html>

@@ -1,0 +1,41 @@
+# configs/crawler.yaml
+crawler:
+  user_agent: "AgenticRAG-DevScraper/0.1 (+local dev)"
+  throttle_seconds: 0.75
+  request_timeout: 20
+  max_depth: 4
+  max_pages: 600
+
+targets:
+  - name: lucid
+    base: "https://www.lucidmotors.com"
+    allow_paths:
+      - "/"
+      - "/ownership"
+      - "/support"
+      - "/ownership/air-essentials"
+      - "/ownership/knowledge-base"
+      - "/assets"
+      - "/media"
+    start_urls:
+      - "https://www.lucidmotors.com/ownership/air-essentials"
+      - "https://www.lucidmotors.com/ownership/knowledge-base"
+      - "https://www.lucidmotors.com/support"
+
+  - name: wells
+    base: "https://www.wellsfargo.com"
+    allow_paths:
+      - "/help"
+    start_urls:
+      - "https://www.wellsfargo.com/help/"
+
+pdf_allowed_hosts:
+  # Lucid
+  "www.lucidmotors.com": ["/", "/ownership", "/support", "/assets", "/media"]
+  "assets.lucidmotors.com": ["/"]
+  "cdn.lucidmotors.com": ["/"]
+  "media.lucidmotors.com": ["/"]
+  # Wells Fargo
+  "www.wellsfargo.com": ["/help"]
+
+seed_pdf_urls: []

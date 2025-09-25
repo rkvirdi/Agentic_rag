@@ -15,14 +15,14 @@
 	
 
 	
-	<script type="text/javascript" nonce="da59fee9-2aea-4d0f-9545-151287ffa8c6">
+	<script type="text/javascript" nonce="6f410302-9a55-477f-bbb8-43815054e325">
 		var environment = "PRODUCTION";
 		var appd_key = "AD-AAB-ABJ-PZF";
 		var appd_js_path = "https:\/\/static.wellsfargo.com\/assets\/js\/wfui\/appdynamics";
 	</script>
-	<script src="https://static.wellsfargo.com/assets/js/wfui/appdynamics/appdEUMConfig.js" nonce="da59fee9-2aea-4d0f-9545-151287ffa8c6"> </script>
+	<script src="https://static.wellsfargo.com/assets/js/wfui/appdynamics/appdEUMConfig.js" nonce="6f410302-9a55-477f-bbb8-43815054e325"> </script>
 	
-	<script type="text/javascript" nonce="da59fee9-2aea-4d0f-9545-151287ffa8c6">
+	<script type="text/javascript" nonce="6f410302-9a55-477f-bbb8-43815054e325">
 		var akamaiImageHostUrl = "https:\/\/www17.wellsfargomedia.com";
 	</script>
 
@@ -94,7 +94,7 @@
 	
 	 
 	
-	<script nonce="da59fee9-2aea-4d0f-9545-151287ffa8c6">
+	<script nonce="6f410302-9a55-477f-bbb8-43815054e325">
 		// if this line executes, then javascript is turned on and we'll
 		// therefore remove the no-js class from the HTML tag
         document.documentElement.className = document.documentElement.className.replace(/(^|\s)no-js(\s|$)/, '$1$2');
@@ -102,12 +102,12 @@
 	
  
 	
-	<script type="text/javascript" nonce="da59fee9-2aea-4d0f-9545-151287ffa8c6"> var utag_data = { app_id:'WWW',authenticated:'false',mpuid:'1120250923225742535397828',unique_id:'20250923105742',page_type:'BROWSER',tealium_js_path:'https://c1.wfinterface.com/tracking/main/utag.js',device_type:'',mt_tag_path:'https://c1.wfinterface.com/rtto/',customer_type:'',zip_code:'',environment:'PRODUCTION',lang_pref:'EN'} </script> 
-	<script type="text/javascript" nonce="da59fee9-2aea-4d0f-9545-151287ffa8c6"> var WFUI_CONTAINER = {"app_id":"WWW","environment":"PRODUCTION","top":{"sources":[]},"bottom":{"sources":[]}}; </script> 
+	<script type="text/javascript" nonce="6f410302-9a55-477f-bbb8-43815054e325"> var utag_data = { app_id:'WWW',authenticated:'false',mpuid:'11202509241743131005372836',unique_id:'20250924054313',page_type:'BROWSER',tealium_js_path:'https://c1.wfinterface.com/tracking/main/utag.js',device_type:'',mt_tag_path:'https://c1.wfinterface.com/rtto/',customer_type:'',zip_code:'',environment:'PRODUCTION',lang_pref:'EN'} </script> 
+	<script type="text/javascript" nonce="6f410302-9a55-477f-bbb8-43815054e325"> var WFUI_CONTAINER = {"app_id":"WWW","environment":"PRODUCTION","top":{"sources":[]},"bottom":{"sources":[]}}; </script> 
 	
 	 
 	 
-<script id="antiClickjack" type="text/javascript" nonce="da59fee9-2aea-4d0f-9545-151287ffa8c6">try{if (self != top){top.location = self.location;}}catch(err){}</script></head>
+<script id="antiClickjack" type="text/javascript" nonce="6f410302-9a55-477f-bbb8-43815054e325">try{if (self != top){top.location = self.location;}}catch(err){}</script></head>
 
 
 
@@ -1322,12 +1322,12 @@
 	</div>
 	
 	
-	<img src="/assets/images/global/s.gif?log=1&cb=1758693462664&event=PageLoad&pid=tcm:222-18270-64&ptid=tcm:222-170471-128&pageUrl=https%3A%2F%2Fwww.wellsfargo.com%2Fhelp%2Fcredit-cards%2Fcredit-card-faqs%2F&clist=84-18295-16~91-1889-32|84-18293-16~91-1889-32|84-18267-16~91-1889-32|84-16809-16~91-6222-32|84-123521-16~91-1924-32|84-215676-16~91-1924-32|84-123520-16~91-1924-32|84-8963-16~91-1924-32|84-262511-16~91-1924-32|84-159874-16~91-1924-32|84-212724-16~91-1924-32|84-205395-16~91-1924-32|84-170735-16~91-1924-32|84-38072-16~91-1924-32|84-148263-16~91-1924-32|84-169087-16~91-1924-32|84-6793-16~91-1924-32|84-252394-16~91-1924-32|84-304789-16~91-1924-32|84-8259-16~91-1865-32|84-36594-16~91-2830-32|84-18278-16~91-6213-32|84-18279-16~91-6213-32|84-18280-16~91-6213-32|84-18281-16~91-6213-32|84-18282-16~91-6213-32|84-18283-16~91-6213-32|84-18285-16~91-6213-32|84-18287-16~91-6213-32|84-8654-16~91-6213-32|84-222967-16~91-6213-32|84-222968-16~91-6213-32|84-18289-16~91-6213-32|84-70267-16~91-6213-32|84-70265-16~91-6213-32|84-70266-16~91-6213-32|84-18290-16~91-6213-32|84-18291-16~91-6213-32|84-18264-16~91-6213-32|84-18288-16~91-6213-32|84-222966-16~91-6213-32|84-172307-16~91-6213-32|84-172308-16~91-6213-32|84-219414-16~91-6213-32|84-49339-16~91-6213-32|182-279839-16~223-3757-32|84-266344-16~91-6213-32|84-266345-16~91-6213-32|84-266346-16~91-6213-32|84-8253-16~91-1866-32" alt=""/>
+	<img src="/assets/images/global/s.gif?log=1&cb=1758760993448&event=PageLoad&pid=tcm:222-18270-64&ptid=tcm:222-170471-128&pageUrl=https%3A%2F%2Fwww.wellsfargo.com%2Fhelp%2Fcredit-cards%2Fcredit-card-faqs%2F&clist=84-18295-16~91-1889-32|84-18293-16~91-1889-32|84-18267-16~91-1889-32|84-16809-16~91-6222-32|84-123521-16~91-1924-32|84-215676-16~91-1924-32|84-123520-16~91-1924-32|84-8963-16~91-1924-32|84-262511-16~91-1924-32|84-159874-16~91-1924-32|84-212724-16~91-1924-32|84-205395-16~91-1924-32|84-170735-16~91-1924-32|84-38072-16~91-1924-32|84-148263-16~91-1924-32|84-169087-16~91-1924-32|84-6793-16~91-1924-32|84-252394-16~91-1924-32|84-304789-16~91-1924-32|84-8259-16~91-1865-32|84-36594-16~91-2830-32|84-18278-16~91-6213-32|84-18279-16~91-6213-32|84-18280-16~91-6213-32|84-18281-16~91-6213-32|84-18282-16~91-6213-32|84-18283-16~91-6213-32|84-18285-16~91-6213-32|84-18287-16~91-6213-32|84-8654-16~91-6213-32|84-222967-16~91-6213-32|84-222968-16~91-6213-32|84-18289-16~91-6213-32|84-70267-16~91-6213-32|84-70265-16~91-6213-32|84-70266-16~91-6213-32|84-18290-16~91-6213-32|84-18291-16~91-6213-32|84-18264-16~91-6213-32|84-18288-16~91-6213-32|84-222966-16~91-6213-32|84-172307-16~91-6213-32|84-172308-16~91-6213-32|84-219414-16~91-6213-32|84-49339-16~91-6213-32|182-279839-16~223-3757-32|84-266344-16~91-6213-32|84-266345-16~91-6213-32|84-266346-16~91-6213-32|84-8253-16~91-1866-32" alt=""/>
 	
 	
 	
 
-<script type="text/javascript" nonce="da59fee9-2aea-4d0f-9545-151287ffa8c6">
+<script type="text/javascript" nonce="6f410302-9a55-477f-bbb8-43815054e325">
 var tasInfo = {
 "pageID" : "/help/credit-cards/credit-card-faqs/",
 "Url" : "/tas",
@@ -1340,10 +1340,10 @@ var tasInfo = {
 	
 	
 	
-	<script type="text/javascript" src="/js/vendor/jquery.min.js" nonce="da59fee9-2aea-4d0f-9545-151287ffa8c6"> </script> 
-	<script type="text/javascript" src="/js/frameworks/jq/jquery-ui.js" nonce="da59fee9-2aea-4d0f-9545-151287ffa8c6"> </script> 
-	<script type="text/javascript" src="/js/global/global.js" nonce="da59fee9-2aea-4d0f-9545-151287ffa8c6"> </script> 
-	<script type="text/javascript" src="/js/frameworks/slick01.js" nonce="da59fee9-2aea-4d0f-9545-151287ffa8c6"></script>
+	<script type="text/javascript" src="/js/vendor/jquery.min.js" nonce="6f410302-9a55-477f-bbb8-43815054e325"> </script> 
+	<script type="text/javascript" src="/js/frameworks/jq/jquery-ui.js" nonce="6f410302-9a55-477f-bbb8-43815054e325"> </script> 
+	<script type="text/javascript" src="/js/global/global.js" nonce="6f410302-9a55-477f-bbb8-43815054e325"> </script> 
+	<script type="text/javascript" src="/js/frameworks/slick01.js" nonce="6f410302-9a55-477f-bbb8-43815054e325"></script>
 
 	
 	
@@ -1356,7 +1356,7 @@ var tasInfo = {
  
 	
 	
-	<script src="https://static.wellsfargo.com/assets/js/wfui/container/wfui-container-bottom.js" nonce="da59fee9-2aea-4d0f-9545-151287ffa8c6"></script>
+	<script src="https://static.wellsfargo.com/assets/js/wfui/container/wfui-container-bottom.js" nonce="6f410302-9a55-477f-bbb8-43815054e325"></script>
 
-<script type="text/javascript"  src="/2WTOQAvyB_oz/ta6A_6/-r-Piw/JimabDJXSLJ4NDViD9/EzQmBQE/D0ZC/WloOAnY"></script></body>
+<script type="text/javascript"  src="/C8An/9hPt/cd/ha2u/380g/Ou3tQD8XffLrDQfY/dzojDwE/Nk/MxbkE5OTM"></script></body>
 </html>

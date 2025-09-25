@@ -15,14 +15,14 @@
 	
 
 	
-	<script type="text/javascript" nonce="469d1b53-b5ae-4f06-8e6b-0bb9956fd683">
+	<script type="text/javascript" nonce="6a22a759-e215-4002-be8e-714479320742">
 		var environment = "PRODUCTION";
 		var appd_key = "AD-AAB-ABJ-PZF";
 		var appd_js_path = "https:\/\/static.wellsfargo.com\/assets\/js\/wfui\/appdynamics";
 	</script>
-	<script src="https://static.wellsfargo.com/assets/js/wfui/appdynamics/appdEUMConfig.js" nonce="469d1b53-b5ae-4f06-8e6b-0bb9956fd683"> </script>
+	<script src="https://static.wellsfargo.com/assets/js/wfui/appdynamics/appdEUMConfig.js" nonce="6a22a759-e215-4002-be8e-714479320742"> </script>
 	
-	<script type="text/javascript" nonce="469d1b53-b5ae-4f06-8e6b-0bb9956fd683">
+	<script type="text/javascript" nonce="6a22a759-e215-4002-be8e-714479320742">
 		var akamaiImageHostUrl = "https:\/\/www17.wellsfargomedia.com";
 	</script>
 
@@ -94,7 +94,7 @@
 	
 	 
 	
-	<script nonce="469d1b53-b5ae-4f06-8e6b-0bb9956fd683">
+	<script nonce="6a22a759-e215-4002-be8e-714479320742">
 		// if this line executes, then javascript is turned on and we'll
 		// therefore remove the no-js class from the HTML tag
         document.documentElement.className = document.documentElement.className.replace(/(^|\s)no-js(\s|$)/, '$1$2');
@@ -102,12 +102,12 @@
 	
  
 	
-	<script type="text/javascript" nonce="469d1b53-b5ae-4f06-8e6b-0bb9956fd683"> var utag_data = { app_id:'WWW',authenticated:'false',mpuid:'11202509232257171357270329',unique_id:'20250923105717',page_type:'BROWSER',tealium_js_path:'https://c1.wfinterface.com/tracking/main/utag.js',device_type:'',mt_tag_path:'https://c1.wfinterface.com/rtto/',customer_type:'',zip_code:'',environment:'PRODUCTION',lang_pref:'EN'} </script> 
-	<script type="text/javascript" nonce="469d1b53-b5ae-4f06-8e6b-0bb9956fd683"> var WFUI_CONTAINER = {"app_id":"WWW","environment":"PRODUCTION","top":{"sources":[]},"bottom":{"sources":[]}}; </script> 
+	<script type="text/javascript" nonce="6a22a759-e215-4002-be8e-714479320742"> var utag_data = { app_id:'WWW',authenticated:'false',mpuid:'1120250924174356611703126',unique_id:'20250924054356',page_type:'BROWSER',tealium_js_path:'https://c1.wfinterface.com/tracking/main/utag.js',device_type:'',mt_tag_path:'https://c1.wfinterface.com/rtto/',customer_type:'',zip_code:'',environment:'PRODUCTION',lang_pref:'EN'} </script> 
+	<script type="text/javascript" nonce="6a22a759-e215-4002-be8e-714479320742"> var WFUI_CONTAINER = {"app_id":"WWW","environment":"PRODUCTION","top":{"sources":[]},"bottom":{"sources":[]}}; </script> 
 	
 	 
 	 
-<script id="antiClickjack" type="text/javascript" nonce="469d1b53-b5ae-4f06-8e6b-0bb9956fd683">try{if (self != top){top.location = self.location;}}catch(err){}</script></head>
+<script id="antiClickjack" type="text/javascript" nonce="6a22a759-e215-4002-be8e-714479320742">try{if (self != top){top.location = self.location;}}catch(err){}</script></head>
 
 
 
@@ -864,12 +864,12 @@
 	</div>
 	
 	
-	<img src="/assets/images/global/s.gif?log=1&cb=1758693437593&event=PageLoad&pid=tcm:222-162311-64&ptid=tcm:222-170471-128&pageUrl=https%3A%2F%2Fwww.wellsfargo.com%2Fhelp%2Fchecking-savings%2Fforeign-currency-faqs%2F&clist=84-162304-16~91-1889-32|84-162305-16~91-1889-32|84-123521-16~91-1924-32|84-224478-16~91-1924-32|84-249436-16~91-1924-32|84-329636-16~91-1924-32|84-8259-16~91-1865-32|84-36594-16~91-2830-32|84-162309-16~91-6213-32|84-215078-16~91-6213-32|84-215079-16~91-6213-32|84-334192-16~91-6213-32|84-215080-16~91-6213-32|84-215081-16~91-6213-32|84-215082-16~91-6213-32|84-215083-16~91-6213-32|84-215084-16~91-6213-32|84-215087-16~91-6213-32|84-315723-16~91-6213-32|84-340633-16~91-6213-32|84-8253-16~91-1866-32" alt=""/>
+	<img src="/assets/images/global/s.gif?log=1&cb=1758761036338&event=PageLoad&pid=tcm:222-162311-64&ptid=tcm:222-170471-128&pageUrl=https%3A%2F%2Fwww.wellsfargo.com%2Fhelp%2Fchecking-savings%2Fforeign-currency-faqs%2F&clist=84-162304-16~91-1889-32|84-162305-16~91-1889-32|84-123521-16~91-1924-32|84-224478-16~91-1924-32|84-249436-16~91-1924-32|84-329636-16~91-1924-32|84-8259-16~91-1865-32|84-36594-16~91-2830-32|84-162309-16~91-6213-32|84-215078-16~91-6213-32|84-215079-16~91-6213-32|84-334192-16~91-6213-32|84-215080-16~91-6213-32|84-215081-16~91-6213-32|84-215082-16~91-6213-32|84-215083-16~91-6213-32|84-215084-16~91-6213-32|84-215087-16~91-6213-32|84-315723-16~91-6213-32|84-340633-16~91-6213-32|84-8253-16~91-1866-32" alt=""/>
 	
 	
 	
 
-<script type="text/javascript" nonce="469d1b53-b5ae-4f06-8e6b-0bb9956fd683">
+<script type="text/javascript" nonce="6a22a759-e215-4002-be8e-714479320742">
 var tasInfo = {
 "pageID" : "/help/checking-savings/foreign-currency-faqs/",
 "Url" : "/tas",
@@ -882,10 +882,10 @@ var tasInfo = {
 	
 	
 	
-	<script type="text/javascript" src="/js/vendor/jquery.min.js" nonce="469d1b53-b5ae-4f06-8e6b-0bb9956fd683"> </script> 
-	<script type="text/javascript" src="/js/frameworks/jq/jquery-ui.js" nonce="469d1b53-b5ae-4f06-8e6b-0bb9956fd683"> </script> 
-	<script type="text/javascript" src="/js/global/global.js" nonce="469d1b53-b5ae-4f06-8e6b-0bb9956fd683"> </script> 
-	<script type="text/javascript" src="/js/frameworks/slick01.js" nonce="469d1b53-b5ae-4f06-8e6b-0bb9956fd683"></script>
+	<script type="text/javascript" src="/js/vendor/jquery.min.js" nonce="6a22a759-e215-4002-be8e-714479320742"> </script> 
+	<script type="text/javascript" src="/js/frameworks/jq/jquery-ui.js" nonce="6a22a759-e215-4002-be8e-714479320742"> </script> 
+	<script type="text/javascript" src="/js/global/global.js" nonce="6a22a759-e215-4002-be8e-714479320742"> </script> 
+	<script type="text/javascript" src="/js/frameworks/slick01.js" nonce="6a22a759-e215-4002-be8e-714479320742"></script>
 
 	
 	
@@ -898,7 +898,7 @@ var tasInfo = {
  
 	
 	
-	<script src="https://static.wellsfargo.com/assets/js/wfui/container/wfui-container-bottom.js" nonce="469d1b53-b5ae-4f06-8e6b-0bb9956fd683"></script>
+	<script src="https://static.wellsfargo.com/assets/js/wfui/container/wfui-container-bottom.js" nonce="6a22a759-e215-4002-be8e-714479320742"></script>
 
-<script type="text/javascript"  src="/2WTOQAvyB_oz/ta6A_6/-r-Piw/JimabDJXSLJ4NDViD9/EzQmBQE/D0ZC/WloOAnY"></script></body>
+<script type="text/javascript"  src="/C8An/9hPt/cd/ha2u/380g/Ou3tQD8XffLrDQfY/dzojDwE/Nk/MxbkE5OTM"></script></body>
 </html>
