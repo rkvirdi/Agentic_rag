@@ -1,7 +1,22 @@
-beautifulsoup4 == 4.13.5
-requests == 2.32.5
+# scraping + parsing
+beautifulsoup4==4.13.5
+requests==2.32.3
 PyYAML
-beautifulsoup4>=4.12.0
-PyMuPDF>=1.24.0        # fallback if Docling missing
-langchain
-#docling>=2.0.0         # if this fails to install, the code will auto-fallback to PyMuPDF
+
+# pdf parsing
+PyMuPDF>=1.24.0         # fallback if Docling missing
+# docling>=2.0.0        # heavy; optional, GPU recommended
+
+# rag orchestration
+langchain>=0.2.0
+
+# weaviate
+weaviate-client==4.17.0
+
+# embeddings
+sentence-transformers==2.7.0
+transformers>=4.44,<4.46
+
+# torch (cpu build for windows)
+torch==2.2.2+cpu ; platform_system=="Windows" and platform_machine=="AMD64" --extra-index-url https://download.pytorch.org/whl/cpu
+numpy>=1.26,<2.0
