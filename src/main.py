@@ -1,11 +1,11 @@
 from langgraph.graph import StateGraph, END
-from agents.orchestrator import orchestrator_agent
-from agents.intent_router import intent_router_agent
-from agents.planner import planner_agent
-from agents.retrieval import hybrid_retrieval_agent
-from agents.synthesizer import synthesizer_agent
-from agents.validator import validator_agent
-from utils.weaviate_client import client
+from src.agents.orchestrator import orchestrator_agent
+from src.agents.intent_router import intent_router_agent
+from src.agents.planner import planner_agent
+from src.agents.retrieval import hybrid_retrieval_agent
+from src.agents.synthesizer import synthesizer_agent
+from src.agents.validator import validator_agent
+from src.utils.weaviate_client import client
 
 def build_graph():
     workflow = StateGraph(dict)
@@ -28,8 +28,8 @@ def build_graph():
 
     return workflow.compile()
 
-if __name__ == "__main__":
-    graph = build_graph()
-    result = graph.invoke({"query": "Compare treatment A with treatment B"})
-    print(result)
-    client.close()  # cleanup
+#if __name__ == "__main__":
+    # graph = build_graph()
+    # result = graph.invoke({"query": "What are the ways to stop the vehicle from moving?"})
+    # print(result)
+    # client.close()  # cleanup

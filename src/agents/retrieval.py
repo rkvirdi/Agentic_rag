@@ -1,6 +1,6 @@
-from models.reranker import cross_encoder
-from models.embeddings import embedding_model
-from utils.weaviate_client import client
+from src.models.reranker import cross_encoder
+from src.models.embedding import embedding_model
+from src.utils.weaviate_client import client
 import operator
 
 CLASS_NAME = "DocChunk"

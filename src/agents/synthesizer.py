@@ -1,4 +1,4 @@
-from models.generator import generator
+from src.models.generator import generator
 
 def synthesizer_agent(state: dict) -> dict:
     docs = state.get("retrieved_docs", [])

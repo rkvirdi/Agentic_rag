@@ -20,3 +20,7 @@ transformers>=4.44,<4.46
 # torch (cpu build for windows)
 torch==2.2.2+cpu ; platform_system=="Windows" and platform_machine=="AMD64" --extra-index-url https://download.pytorch.org/whl/cpu
 numpy>=1.26,<2.0
+langraph
+hf_xet
+uvicorn
+fastapi

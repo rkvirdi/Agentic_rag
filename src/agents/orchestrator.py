@@ -1,4 +1,4 @@
-from utils.guardrails import apply_guardrails
+from src.utils.guardrails import apply_guardrails
 
 def orchestrator_agent(state: dict) -> dict:
     query = state["query"]
